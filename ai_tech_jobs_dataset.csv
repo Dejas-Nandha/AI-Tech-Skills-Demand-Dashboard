@@ -1,0 +1,1244 @@
+JobID,JobTitle,Company,LocationCity,LocationState,Latitude,Longitude,PrimarySkill,AdditionalSkills,ExperienceLevel,Salary,DatePosted,Remote
+JEX01,Data Scientist,Google,Mountain View,CA,37.3861,-122.0839,Machine Learning,"Python, SQL",Senior,150000,2024-09-12,No
+JEX02,Machine Learning Engineer,Amazon,Seattle,WA,47.6062,-122.3321,Machine Learning,"AWS, Python",Mid,135000,2024-08-04,No
+JEX03,Cloud Architect,Microsoft,Redmond,WA,47.673988,-122.121513,Azure,"Azure, SQL",Senior,140000,2024-07-20,No
+JEX04,Data Engineer,AWS,Austin,TX,30.2672,-97.7431,Python,"AWS, SQL",Mid,120000,2024-06-15,Yes
+J0001,Cloud Engineer (AWS),Google,Los Angeles,CA,34.0522,-118.2437,AWS,Other,Senior,144000,2024-05-20,No
+J0002,Data Engineer,Microsoft,Los Angeles,CA,34.0522,-118.2437,Python,"Machine Learning, AWS, Java",Mid,123000,2024-02-22,Yes
+J0003,Frontend Developer,DataWorks,Boston,MA,42.3601,-71.0589,Other,Java,Senior,105000,2024-01-17,No
+J0004,Java Developer,Meta,Redmond,WA,47.673988,-122.121513,Java,"AWS, Python",Entry,69000,2024-09-15,No
+J0005,Python Developer,StartupX,Redmond,WA,47.673988,-122.121513,Python,"Azure, Other",Entry,75000,2024-10-06,Yes
+J0006,Data Scientist,Netflix,Dallas,TX,32.7767,-96.797,Machine Learning,AWS,Mid,108000,2024-05-22,No
+J0007,Cloud Engineer (Azure),FintechCo,Boston,MA,42.3601,-71.0589,Azure,"SQL, Java",Mid,82000,2024-06-23,Yes
+J0008,SQL Developer,Meta,Austin,TX,30.2672,-97.7431,SQL,Machine Learning,Mid,104000,2024-02-22,No
+J0009,Back-end Engineer,Amazon,Austin,TX,30.2672,-97.7431,Python,"SQL, Azure",Senior,152000,2024-06-25,Yes
+J0010,Research Scientist,RetailCorp,Mountain View,CA,37.3861,-122.0839,Machine Learning,SQL,Entry,84000,2024-08-23,No
+J0011,Frontend Developer,DeepVision,Boston,MA,42.3601,-71.0589,Other,"SQL, Java",Mid,78000,2024-02-10,No
+J0012,Product Analyst,HealthAI,Raleigh,NC,35.7796,-78.6382,Other,"Python, Java",Mid,74000,2024-07-04,No
+J0013,Data Engineer,FintechCo,Seattle,WA,47.6062,-122.3321,Python,"AWS, Other",Senior,135000,2024-01-24,No
+J0014,Cloud Engineer (Azure),RetailCorp,San Francisco,CA,37.7749,-122.4194,Azure,Java,Senior,134000,2024-02-10,No
+J0015,Java Developer,Salesforce,San Francisco,CA,37.7749,-122.4194,Java,"Python, Other",Senior,128000,2024-08-20,No
+J0016,Software Engineer,Microsoft,Austin,TX,30.2672,-97.7431,Java,Azure,Mid,109000,2024-06-30,No
+J0017,Cloud Architect,FintechCo,Raleigh,NC,35.7796,-78.6382,AWS,"SQL, Other",Entry,81000,2024-02-06,Yes
+J0018,Data Engineer,StartupX,Los Angeles,CA,34.0522,-118.2437,Python,SQL,Mid,117000,2024-05-05,Yes
+J0019,Back-end Engineer,Salesforce,San Francisco,CA,37.7749,-122.4194,Python,Machine Learning,Entry,70000,2024-10-12,No
+J0020,Data Analyst,HealthAI,Mountain View,CA,37.3861,-122.0839,SQL,AWS,Mid,103000,2024-04-27,Yes
+J0021,Product Analyst,Salesforce,San Francisco,CA,37.7749,-122.4194,Other,SQL,Mid,90000,2024-02-03,No
+J0022,Backend Developer,DeepVision,Los Angeles,CA,34.0522,-118.2437,Java,Machine Learning,Senior,134000,2024-06-10,Yes
+J0023,Site Reliability Engineer,Salesforce,Raleigh,NC,35.7796,-78.6382,AWS,Python,Senior,128000,2024-08-22,No
+J0024,Data Analyst,Microsoft,Redmond,WA,47.673988,-122.121513,Python,"Machine Learning, Azure",Entry,77000,2024-10-14,No
+J0025,Data Analyst,FintechCo,Dallas,TX,32.7767,-96.797,SQL,"AWS, Python",Entry,61000,2024-08-07,No
+J0026,Support Engineer,Apple,Redmond,WA,47.673988,-122.121513,Other,"Python, Machine Learning",Entry,76000,2024-03-11,Yes
+J0027,BI Developer,Amazon,Mountain View,CA,37.3861,-122.0839,SQL,Java,Entry,74000,2024-02-26,No
+J0028,Data Engineer,RetailCorp,Raleigh,NC,35.7796,-78.6382,Python,"SQL, Machine Learning, Azure",Mid,119000,2024-08-04,Yes
+J0029,Cloud Engineer (AWS),Salesforce,Boston,MA,42.3601,-71.0589,AWS,"SQL, Other, Azure",Mid,108000,2024-08-27,No
+J0030,Product Analyst,StartupX,Mountain View,CA,37.3861,-122.0839,Other,"Azure, Java",Entry,71000,2024-02-28,No
+J0031,Backend Developer,RetailCorp,San Francisco,CA,37.7749,-122.4194,Java,,Mid,92000,2024-06-23,No
+J0032,Data Analyst,Salesforce,New York,NY,40.7128,-74.006,SQL,,Entry,65000,2024-08-20,No
+J0033,Data Analyst,StartupX,New York,NY,40.7128,-74.006,SQL,Other,Mid,99000,2024-09-16,No
+J0034,Data Analyst,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,"SQL, Other",Entry,73000,2024-09-16,No
+J0035,Cloud Engineer (Azure),Microsoft,Austin,TX,30.2672,-97.7431,Azure,"Python, Machine Learning",Entry,61000,2024-03-23,No
+J0036,Frontend Developer,DataWorks,Austin,TX,30.2672,-97.7431,Other,Python,Entry,62000,2024-09-07,No
+J0037,Cloud Engineer (Azure),DeepVision,Austin,TX,30.2672,-97.7431,Azure,Machine Learning,Senior,130000,2024-06-06,Yes
+J0038,Python Developer,Meta,Dallas,TX,32.7767,-96.797,Python,Machine Learning,Senior,147000,2024-02-10,No
+J0039,Site Reliability Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,AWS,,Senior,135000,2024-09-29,No
+J0040,SQL Developer,CloudLabs,Chicago,IL,41.8781,-87.6298,SQL,Python,Mid,80000,2024-10-08,No
+J0041,Data Analyst,StartupX,Dallas,TX,32.7767,-96.797,Python,,Entry,85000,2024-08-04,No
+J0042,Data Scientist,FintechCo,San Francisco,CA,37.7749,-122.4194,Machine Learning,Azure,Mid,140000,2024-07-23,No
+J0043,Cloud Architect,Netflix,Denver,CO,39.7392,-104.9903,AWS,Azure,Senior,150000,2024-08-19,No
+J0044,Java Developer,Meta,Seattle,WA,47.6062,-122.3321,Java,Machine Learning,Senior,136000,2024-06-22,No
+J0045,SQL Developer,DataWorks,Redmond,WA,47.673988,-122.121513,SQL,Machine Learning,Entry,63000,2024-01-04,No
+J0046,Database Administrator,Meta,Seattle,WA,47.6062,-122.3321,SQL,"Python, Machine Learning",Senior,128000,2024-01-17,No
+J0047,Database Administrator,StartupX,Redmond,WA,47.673988,-122.121513,SQL,"Java, Machine Learning, Other",Mid,98000,2024-05-22,No
+J0048,Support Engineer,Meta,Denver,CO,39.7392,-104.9903,Other,"SQL, Python",Entry,61000,2024-03-08,No
+J0049,Cloud Architect,DataWorks,Chicago,IL,41.8781,-87.6298,Azure,Other,Mid,100000,2024-05-04,Yes
+J0050,ML Ops Engineer,Meta,Seattle,WA,47.6062,-122.3321,Machine Learning,Python,Senior,158000,2024-02-19,No
+J0051,Site Reliability Engineer,Apple,Boston,MA,42.3601,-71.0589,AWS,"Python, Java",Entry,79000,2024-07-29,Yes
+J0052,Python Developer,CloudLabs,Raleigh,NC,35.7796,-78.6382,Python,Machine Learning,Mid,115000,2024-02-20,No
+J0053,Azure DevOps Engineer,FintechCo,Austin,TX,30.2672,-97.7431,Azure,Machine Learning,Senior,124000,2024-02-25,No
+J0054,DevOps Engineer,Meta,Denver,CO,39.7392,-104.9903,AWS,,Mid,111000,2024-08-17,No
+J0055,ML Ops Engineer,Microsoft,San Francisco,CA,37.7749,-122.4194,Machine Learning,,Entry,90000,2024-08-24,Yes
+J0056,Database Administrator,Netflix,Denver,CO,39.7392,-104.9903,SQL,Java,Mid,96000,2024-02-20,No
+J0057,Frontend Developer,Amazon,Redmond,WA,47.673988,-122.121513,Other,"Machine Learning, Java",Entry,58000,2024-03-26,No
+J0058,Azure DevOps Engineer,Netflix,Redmond,WA,47.673988,-122.121513,Azure,Java,Entry,72000,2024-07-24,No
+J0059,Cloud Engineer (Azure),Salesforce,Mountain View,CA,37.3861,-122.0839,Azure,"SQL, Other",Entry,63000,2024-07-18,Yes
+J0060,Back-end Engineer,IBM,Boston,MA,42.3601,-71.0589,Python,"Machine Learning, Other",Entry,67000,2024-10-11,No
+J0061,Back-end Engineer,Microsoft,Redmond,WA,47.673988,-122.121513,Python,,Entry,81000,2024-05-31,No
+J0062,Database Administrator,DataWorks,Los Angeles,CA,34.0522,-118.2437,SQL,Other,Senior,108000,2024-10-04,No
+J0063,Cloud Architect,Google,Mountain View,CA,37.3861,-122.0839,AWS,Java,Mid,106000,2024-10-26,Yes
+J0064,DevOps Engineer,Google,Denver,CO,39.7392,-104.9903,AWS,Other,Entry,72000,2024-02-11,Yes
+J0065,Frontend Developer,DataWorks,Seattle,WA,47.6062,-122.3321,Other,Java,Mid,79000,2024-04-30,No
+J0066,Cloud Engineer (AWS),DeepVision,Dallas,TX,32.7767,-96.797,AWS,"SQL, Azure",Mid,104000,2024-05-06,No
+J0067,Automation Engineer,Google,Dallas,TX,32.7767,-96.797,Python,Java,Entry,80000,2024-02-11,No
+J0068,Backend Developer,DataWorks,Dallas,TX,32.7767,-96.797,Java,"SQL, Python",Senior,154000,2024-09-24,No
+J0069,Software Engineer,Meta,Raleigh,NC,35.7796,-78.6382,Java,Python,Senior,138000,2024-06-09,No
+J0070,Research Scientist,Salesforce,New York,NY,40.7128,-74.006,Machine Learning,"AWS, Python",Senior,193000,2024-06-02,No
+J0071,Product Analyst,DeepVision,Seattle,WA,47.6062,-122.3321,Other,"SQL, Java",Entry,59000,2024-01-05,No
+J0072,Cloud Engineer (AWS),Amazon,Denver,CO,39.7392,-104.9903,AWS,"SQL, Machine Learning, Other",Entry,77000,2024-04-19,No
+J0073,Software Engineer,Microsoft,Austin,TX,30.2672,-97.7431,Java,Python,Senior,138000,2024-02-05,No
+J0074,Cloud Architect,IBM,New York,NY,40.7128,-74.006,AWS,Python,Mid,110000,2024-08-12,No
+J0075,Cloud Architect,DataWorks,Raleigh,NC,35.7796,-78.6382,AWS,Java,Senior,142000,2024-09-27,Yes
+J0076,Backend Developer,HealthAI,Denver,CO,39.7392,-104.9903,Java,"AWS, Python, Azure",Mid,98000,2024-06-02,No
+J0077,Machine Learning Engineer,DeepVision,New York,NY,40.7128,-74.006,Machine Learning,Python,Senior,178000,2024-05-15,Yes
+J0078,Frontend Developer,FintechCo,Denver,CO,39.7392,-104.9903,Other,Python,Senior,108000,2024-03-20,No
+J0079,Software Engineer,DataWorks,Redmond,WA,47.673988,-122.121513,Java,,Mid,93000,2024-06-24,No
+J0080,Data Analyst,StartupX,Chicago,IL,41.8781,-87.6298,SQL,Machine Learning,Mid,95000,2024-05-08,No
+J0081,Frontend Developer,CloudLabs,Boston,MA,42.3601,-71.0589,Other,AWS,Entry,63000,2024-05-21,Yes
+J0082,Python Developer,Apple,New York,NY,40.7128,-74.006,Python,Machine Learning,Senior,162000,2024-05-14,No
+J0083,Support Engineer,StartupX,Los Angeles,CA,34.0522,-118.2437,Other,"SQL, AWS",Mid,82000,2024-08-06,Yes
+J0084,Python Developer,Amazon,Seattle,WA,47.6062,-122.3321,Python,"Java, Azure",Senior,127000,2024-03-17,No
+J0085,Frontend Developer,HealthAI,Austin,TX,30.2672,-97.7431,Other,"AWS, Java",Senior,105000,2024-10-25,No
+J0086,Cloud Engineer (Azure),Salesforce,New York,NY,40.7128,-74.006,Azure,"AWS, Other",Entry,78000,2024-01-22,No
+J0087,Data Analyst,DeepVision,Mountain View,CA,37.3861,-122.0839,SQL,Java,Mid,107000,2024-07-02,No
+J0088,QA Engineer,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,"Python, Machine Learning, Azure",Mid,88000,2024-06-30,No
+J0089,BI Developer,DataWorks,Los Angeles,CA,34.0522,-118.2437,SQL,Java,Senior,126000,2024-03-20,Yes
+J0090,Cloud Engineer (Azure),RetailCorp,New York,NY,40.7128,-74.006,Azure,Other,Entry,71000,2024-07-30,No
+J0091,Cloud Engineer (Azure),FintechCo,Austin,TX,30.2672,-97.7431,Azure,"AWS, Python, Other",Mid,107000,2024-07-29,No
+J0092,QA Engineer,IBM,New York,NY,40.7128,-74.006,Other,Machine Learning,Senior,127000,2024-02-25,No
+J0093,Python Developer,HealthAI,Chicago,IL,41.8781,-87.6298,Python,Machine Learning,Mid,98000,2024-04-23,Yes
+J0094,Support Engineer,Apple,San Francisco,CA,37.7749,-122.4194,Other,Azure,Senior,106000,2024-04-26,Yes
+J0095,Database Administrator,CloudLabs,Redmond,WA,47.673988,-122.121513,SQL,"Java, Azure",Mid,83000,2024-07-23,Yes
+J0096,Product Analyst,HealthAI,Seattle,WA,47.6062,-122.3321,Other,Java,Mid,90000,2024-05-22,No
+J0097,Automation Engineer,Salesforce,Raleigh,NC,35.7796,-78.6382,Python,Azure,Senior,129000,2024-10-01,No
+J0098,Frontend Developer,Amazon,San Francisco,CA,37.7749,-122.4194,Other,"SQL, Java",Entry,62000,2024-04-01,No
+J0099,Product Analyst,Google,Seattle,WA,47.6062,-122.3321,Other,Java,Mid,86000,2024-08-10,No
+J0100,Product Analyst,Salesforce,Dallas,TX,32.7767,-96.797,Other,Java,Mid,82000,2024-09-18,No
+J0101,Support Engineer,DeepVision,Dallas,TX,32.7767,-96.797,Other,"AWS, Java",Entry,56000,2024-04-07,No
+J0102,Database Administrator,FintechCo,Boston,MA,42.3601,-71.0589,SQL,"Machine Learning, Other",Mid,94000,2024-01-01,Yes
+J0103,Backend Developer,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Java,"Python, Machine Learning",Mid,101000,2024-04-10,No
+J0104,ML Ops Engineer,Amazon,Raleigh,NC,35.7796,-78.6382,Machine Learning,"Python, Other",Senior,190000,2024-06-18,Yes
+J0105,Product Analyst,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,"SQL, Machine Learning, Azure",Mid,78000,2024-06-02,No
+J0106,Research Scientist,CloudLabs,Boston,MA,42.3601,-71.0589,Machine Learning,AWS,Entry,99000,2024-06-16,No
+J0107,Cloud Architect,StartupX,New York,NY,40.7128,-74.006,AWS,"SQL, Other",Mid,101000,2024-04-08,No
+J0108,Support Engineer,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Other,"SQL, Python",Entry,68000,2024-03-30,Yes
+J0109,Cloud Architect,Salesforce,Denver,CO,39.7392,-104.9903,AWS,,Senior,114000,2024-01-01,Yes
+J0110,Data Analyst,Meta,Boston,MA,42.3601,-71.0589,Python,"AWS, Other",Entry,79000,2024-10-23,Yes
+J0111,Backend Developer,Apple,Chicago,IL,41.8781,-87.6298,Java,AWS,Entry,76000,2024-08-14,No
+J0112,Data Engineer,StartupX,Chicago,IL,41.8781,-87.6298,Python,"AWS, Java",Entry,77000,2024-03-27,No
+J0113,Cloud Engineer (AWS),IBM,Denver,CO,39.7392,-104.9903,AWS,Machine Learning,Entry,86000,2024-06-20,Yes
+J0114,DevOps Engineer,CloudLabs,San Francisco,CA,37.7749,-122.4194,AWS,Java,Mid,125000,2024-04-25,No
+J0115,Data Engineer,Google,Mountain View,CA,37.3861,-122.0839,Python,"AWS, Other",Mid,111000,2024-05-05,No
+J0116,Automation Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,Python,AWS,Senior,166000,2024-08-21,Yes
+J0117,SQL Developer,FintechCo,Los Angeles,CA,34.0522,-118.2437,SQL,"Azure, Other",Entry,81000,2024-07-15,No
+J0118,Support Engineer,Meta,New York,NY,40.7128,-74.006,Other,AWS,Entry,60000,2024-01-03,No
+J0119,Support Engineer,Meta,New York,NY,40.7128,-74.006,Other,"SQL, Azure",Mid,78000,2024-09-22,No
+J0120,Database Administrator,StartupX,Redmond,WA,47.673988,-122.121513,SQL,"Machine Learning, Java",Entry,69000,2024-03-03,Yes
+J0121,SQL Developer,RetailCorp,Chicago,IL,41.8781,-87.6298,SQL,"Machine Learning, Python, Java",Entry,64000,2024-09-28,No
+J0122,Cloud Architect,RetailCorp,Chicago,IL,41.8781,-87.6298,AWS,"SQL, Other",Mid,102000,2024-09-15,No
+J0123,Cloud Architect,Netflix,New York,NY,40.7128,-74.006,Azure,"SQL, Python",Mid,110000,2024-08-31,No
+J0124,Product Analyst,RetailCorp,Redmond,WA,47.673988,-122.121513,Other,"AWS, Java",Mid,99000,2024-05-21,No
+J0125,Support Engineer,CloudLabs,Redmond,WA,47.673988,-122.121513,Other,"Machine Learning, Azure",Entry,58000,2024-05-20,Yes
+J0126,Database Administrator,FintechCo,San Francisco,CA,37.7749,-122.4194,SQL,"Python, Other",Entry,62000,2024-04-30,Yes
+J0127,Research Scientist,Apple,Denver,CO,39.7392,-104.9903,Machine Learning,,Mid,134000,2024-02-11,Yes
+J0128,QA Engineer,Meta,Boston,MA,42.3601,-71.0589,Other,"AWS, Azure",Mid,84000,2024-03-19,No
+J0129,Data Scientist,Amazon,Boston,MA,42.3601,-71.0589,Machine Learning,"SQL, Azure",Mid,140000,2024-07-27,No
+J0130,Site Reliability Engineer,Salesforce,Mountain View,CA,37.3861,-122.0839,AWS,"Python, Machine Learning",Mid,99000,2024-04-15,Yes
+J0131,Software Engineer,DeepVision,Dallas,TX,32.7767,-96.797,Java,"AWS, Machine Learning",Entry,65000,2024-01-11,No
+J0132,Site Reliability Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,AWS,"Java, Other",Mid,107000,2024-06-29,No
+J0133,BI Developer,HealthAI,Boston,MA,42.3601,-71.0589,SQL,"AWS, Other, Azure",Mid,113000,2024-10-02,No
+J0134,QA Engineer,Netflix,Redmond,WA,47.673988,-122.121513,Other,"Java, Azure",Senior,105000,2024-05-19,No
+J0135,Support Engineer,Google,Boston,MA,42.3601,-71.0589,Other,"Java, Machine Learning, Azure",Entry,62000,2024-06-21,Yes
+J0136,Support Engineer,FintechCo,New York,NY,40.7128,-74.006,Other,Azure,Entry,60000,2024-08-27,No
+J0137,Automation Engineer,StartupX,Mountain View,CA,37.3861,-122.0839,Python,"SQL, Java",Entry,84000,2024-07-20,No
+J0138,Frontend Developer,Amazon,Raleigh,NC,35.7796,-78.6382,Other,Azure,Mid,87000,2024-08-07,No
+J0139,Software Engineer,Microsoft,Mountain View,CA,37.3861,-122.0839,Java,Python,Mid,116000,2024-05-13,No
+J0140,Research Scientist,Meta,Chicago,IL,41.8781,-87.6298,Machine Learning,"AWS, Other",Entry,82000,2024-06-16,Yes
+J0141,Support Engineer,IBM,Boston,MA,42.3601,-71.0589,Other,,Mid,79000,2024-05-09,No
+J0142,ML Ops Engineer,Google,Los Angeles,CA,34.0522,-118.2437,Machine Learning,AWS,Mid,126000,2024-10-03,No
+J0143,Data Analyst,Meta,Raleigh,NC,35.7796,-78.6382,Python,"Machine Learning, Azure",Entry,84000,2024-02-05,No
+J0144,Machine Learning Engineer,RetailCorp,Mountain View,CA,37.3861,-122.0839,Machine Learning,Azure,Senior,157000,2024-05-06,No
+J0145,Python Developer,DataWorks,New York,NY,40.7128,-74.006,Python,Java,Senior,140000,2024-05-02,No
+J0146,ML Ops Engineer,CloudLabs,Seattle,WA,47.6062,-122.3321,Machine Learning,Java,Mid,120000,2024-10-15,No
+J0147,Software Engineer,FintechCo,San Francisco,CA,37.7749,-122.4194,Java,,Mid,87000,2024-07-07,No
+J0148,Frontend Developer,RetailCorp,New York,NY,40.7128,-74.006,Other,Azure,Entry,63000,2024-06-08,No
+J0149,Cloud Engineer (AWS),DeepVision,San Francisco,CA,37.7749,-122.4194,AWS,"SQL, Python, Azure",Senior,140000,2024-10-21,Yes
+J0150,Azure DevOps Engineer,Salesforce,Los Angeles,CA,34.0522,-118.2437,Azure,Machine Learning,Mid,89000,2024-04-11,No
+J0151,Cloud Architect,FintechCo,Raleigh,NC,35.7796,-78.6382,Azure,Machine Learning,Senior,119000,2024-05-04,No
+J0152,Data Analyst,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,Azure,Entry,82000,2024-03-02,No
+J0153,Python Developer,Apple,Denver,CO,39.7392,-104.9903,Python,Other,Entry,77000,2024-08-07,No
+J0154,Research Scientist,Amazon,Denver,CO,39.7392,-104.9903,Machine Learning,Java,Mid,126000,2024-06-23,No
+J0155,Support Engineer,HealthAI,Chicago,IL,41.8781,-87.6298,Other,AWS,Entry,64000,2024-02-24,No
+J0156,Product Analyst,CloudLabs,Chicago,IL,41.8781,-87.6298,Other,SQL,Senior,122000,2024-03-19,No
+J0157,QA Engineer,FintechCo,Denver,CO,39.7392,-104.9903,Other,"Java, Machine Learning, Azure",Mid,88000,2024-05-18,No
+J0158,Site Reliability Engineer,Netflix,Boston,MA,42.3601,-71.0589,AWS,"SQL, Azure",Mid,92000,2024-10-30,Yes
+J0159,Software Engineer,HealthAI,Redmond,WA,47.673988,-122.121513,Java,Python,Entry,67000,2024-02-14,No
+J0160,BI Developer,Meta,Chicago,IL,41.8781,-87.6298,SQL,AWS,Entry,67000,2024-10-18,No
+J0161,Site Reliability Engineer,Apple,Mountain View,CA,37.3861,-122.0839,AWS,SQL,Mid,114000,2024-09-10,No
+J0162,Cloud Engineer (Azure),Netflix,Redmond,WA,47.673988,-122.121513,Azure,Machine Learning,Mid,95000,2024-06-30,No
+J0163,Research Scientist,IBM,Dallas,TX,32.7767,-96.797,Machine Learning,"AWS, Other",Senior,165000,2024-05-21,No
+J0164,Database Administrator,StartupX,Redmond,WA,47.673988,-122.121513,SQL,Machine Learning,Mid,90000,2024-02-13,No
+J0165,Support Engineer,Netflix,Denver,CO,39.7392,-104.9903,Other,"AWS, Python",Senior,108000,2024-05-03,Yes
+J0166,Software Engineer,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Java,"Python, Azure",Entry,78000,2024-09-08,No
+J0167,Python Developer,Amazon,San Francisco,CA,37.7749,-122.4194,Python,Azure,Mid,107000,2024-04-23,No
+J0168,DevOps Engineer,IBM,Raleigh,NC,35.7796,-78.6382,AWS,"Java, Azure",Mid,103000,2024-10-24,No
+J0169,Support Engineer,StartupX,Denver,CO,39.7392,-104.9903,Other,"SQL, Python",Entry,53000,2024-06-25,No
+J0170,Cloud Architect,Apple,Los Angeles,CA,34.0522,-118.2437,AWS,SQL,Entry,86000,2024-08-20,No
+J0171,Data Analyst,IBM,Redmond,WA,47.673988,-122.121513,SQL,"Machine Learning, Java",Mid,104000,2024-03-02,Yes
+J0172,QA Engineer,Apple,Seattle,WA,47.6062,-122.3321,Other,"SQL, Python, Azure",Senior,91000,2024-10-01,No
+J0173,QA Engineer,Meta,Redmond,WA,47.673988,-122.121513,Other,"Python, Azure",Senior,107000,2024-09-04,No
+J0174,Backend Developer,DataWorks,Denver,CO,39.7392,-104.9903,Java,Azure,Entry,72000,2024-05-24,No
+J0175,DevOps Engineer,IBM,Redmond,WA,47.673988,-122.121513,AWS,Java,Entry,77000,2024-07-03,Yes
+J0176,Product Analyst,Google,Los Angeles,CA,34.0522,-118.2437,Other,Machine Learning,Entry,64000,2024-09-30,No
+J0177,Data Analyst,Google,Mountain View,CA,37.3861,-122.0839,Python,"SQL, Java",Mid,126000,2024-10-10,Yes
+J0178,SQL Developer,CloudLabs,Chicago,IL,41.8781,-87.6298,SQL,AWS,Entry,68000,2024-02-22,No
+J0179,Backend Developer,IBM,Chicago,IL,41.8781,-87.6298,Java,"SQL, Azure",Mid,85000,2024-09-02,Yes
+J0180,Data Analyst,Microsoft,Mountain View,CA,37.3861,-122.0839,Python,"AWS, Java",Mid,99000,2024-05-09,No
+J0181,Database Administrator,HealthAI,Seattle,WA,47.6062,-122.3321,SQL,"AWS, Python",Entry,63000,2024-07-24,No
+J0182,Machine Learning Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,Machine Learning,Other,Mid,116000,2024-01-28,No
+J0183,Data Engineer,RetailCorp,Dallas,TX,32.7767,-96.797,Python,AWS,Mid,113000,2024-06-04,No
+J0184,Data Engineer,Amazon,Denver,CO,39.7392,-104.9903,Python,"SQL, AWS, Java",Mid,95000,2024-08-01,No
+J0185,DevOps Engineer,RetailCorp,Denver,CO,39.7392,-104.9903,AWS,Java,Entry,69000,2024-07-13,No
+J0186,Site Reliability Engineer,IBM,Dallas,TX,32.7767,-96.797,AWS,"SQL, Java",Entry,65000,2024-08-07,Yes
+J0187,Frontend Developer,DataWorks,Los Angeles,CA,34.0522,-118.2437,Other,AWS,Entry,60000,2024-02-20,No
+J0188,Data Engineer,IBM,Raleigh,NC,35.7796,-78.6382,Python,Other,Senior,135000,2024-02-11,No
+J0189,Data Engineer,Microsoft,Denver,CO,39.7392,-104.9903,Python,,Senior,151000,2024-02-08,No
+J0190,Cloud Engineer (Azure),Salesforce,Chicago,IL,41.8781,-87.6298,Azure,"SQL, Python",Senior,141000,2024-10-31,No
+J0191,Data Analyst,Google,Redmond,WA,47.673988,-122.121513,SQL,"Java, Other",Senior,128000,2024-05-27,No
+J0192,Data Analyst,FintechCo,Chicago,IL,41.8781,-87.6298,SQL,"AWS, Python, Other",Entry,70000,2024-02-06,No
+J0193,QA Engineer,DeepVision,San Francisco,CA,37.7749,-122.4194,Other,"SQL, AWS",Senior,120000,2024-10-28,No
+J0194,Java Developer,Salesforce,Seattle,WA,47.6062,-122.3321,Java,AWS,Mid,99000,2024-10-05,No
+J0195,Data Scientist,DeepVision,San Francisco,CA,37.7749,-122.4194,Machine Learning,Other,Senior,135000,2024-03-13,Yes
+J0196,Database Administrator,Microsoft,San Francisco,CA,37.7749,-122.4194,SQL,"Python, Java, Azure",Mid,105000,2024-10-31,No
+J0197,Research Scientist,Netflix,Seattle,WA,47.6062,-122.3321,Machine Learning,"SQL, AWS",Mid,128000,2024-08-27,Yes
+J0198,Product Analyst,FintechCo,Boston,MA,42.3601,-71.0589,Other,AWS,Mid,92000,2024-05-19,Yes
+J0199,Automation Engineer,Netflix,Chicago,IL,41.8781,-87.6298,Python,"Machine Learning, Other",Entry,79000,2024-02-11,No
+J0200,Cloud Engineer (AWS),DeepVision,Boston,MA,42.3601,-71.0589,AWS,"Python, Java, Azure",Mid,100000,2024-06-14,Yes
+J0201,Cloud Architect,Google,Seattle,WA,47.6062,-122.3321,AWS,"Python, Java",Entry,78000,2024-04-27,No
+J0202,Automation Engineer,DataWorks,Mountain View,CA,37.3861,-122.0839,Python,Machine Learning,Entry,84000,2024-05-17,No
+J0203,Frontend Developer,RetailCorp,New York,NY,40.7128,-74.006,Other,"AWS, Azure",Entry,63000,2024-08-28,No
+J0204,Support Engineer,DeepVision,San Francisco,CA,37.7749,-122.4194,Other,"AWS, Machine Learning",Mid,85000,2024-04-02,No
+J0205,BI Developer,CloudLabs,Chicago,IL,41.8781,-87.6298,SQL,AWS,Senior,119000,2024-02-16,No
+J0206,Product Analyst,Salesforce,Austin,TX,30.2672,-97.7431,Other,Python,Mid,84000,2024-06-13,No
+J0207,Frontend Developer,HealthAI,New York,NY,40.7128,-74.006,Other,"Python, Azure",Entry,68000,2024-06-17,Yes
+J0208,Support Engineer,IBM,Raleigh,NC,35.7796,-78.6382,Other,"Python, Java",Entry,58000,2024-07-24,No
+J0209,Machine Learning Engineer,Netflix,Seattle,WA,47.6062,-122.3321,Machine Learning,Java,Entry,91000,2024-06-10,No
+J0210,Product Analyst,Amazon,Boston,MA,42.3601,-71.0589,Other,Python,Senior,116000,2024-09-20,No
+J0211,Support Engineer,Salesforce,Mountain View,CA,37.3861,-122.0839,Other,"AWS, Java, Azure",Mid,78000,2024-04-06,Yes
+J0212,Research Scientist,DataWorks,Chicago,IL,41.8781,-87.6298,Machine Learning,Java,Senior,157000,2024-08-14,No
+J0213,QA Engineer,IBM,Denver,CO,39.7392,-104.9903,Other,"SQL, AWS",Entry,61000,2024-03-08,No
+J0214,Software Engineer,DeepVision,Los Angeles,CA,34.0522,-118.2437,Java,,Mid,108000,2024-09-05,Yes
+J0215,Frontend Developer,CloudLabs,Dallas,TX,32.7767,-96.797,Other,"AWS, Python, Java",Senior,119000,2024-05-02,No
+J0216,Cloud Engineer (Azure),IBM,Denver,CO,39.7392,-104.9903,Azure,"AWS, Other",Mid,101000,2024-01-08,Yes
+J0217,Support Engineer,Amazon,Redmond,WA,47.673988,-122.121513,Other,SQL,Senior,120000,2024-02-28,No
+J0218,Database Administrator,CloudLabs,New York,NY,40.7128,-74.006,SQL,Machine Learning,Senior,123000,2024-09-12,No
+J0219,Research Scientist,StartupX,Los Angeles,CA,34.0522,-118.2437,Machine Learning,Python,Entry,100000,2024-05-19,No
+J0220,BI Developer,Netflix,Redmond,WA,47.673988,-122.121513,SQL,"AWS, Java, Azure",Mid,84000,2024-08-21,No
+J0221,Data Engineer,Salesforce,Redmond,WA,47.673988,-122.121513,Python,"Azure, Java, Other",Mid,107000,2024-09-17,Yes
+J0222,QA Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,Other,"SQL, Machine Learning",Mid,93000,2024-05-21,No
+J0223,Azure DevOps Engineer,DeepVision,Denver,CO,39.7392,-104.9903,Azure,SQL,Entry,60000,2024-05-16,Yes
+J0224,Product Analyst,FintechCo,San Francisco,CA,37.7749,-122.4194,Other,"Machine Learning, Java",Senior,119000,2024-10-27,No
+J0225,Back-end Engineer,HealthAI,New York,NY,40.7128,-74.006,Python,"SQL, AWS",Senior,142000,2024-08-16,Yes
+J0226,Back-end Engineer,Apple,Austin,TX,30.2672,-97.7431,Python,"AWS, Machine Learning",Mid,92000,2024-10-09,No
+J0227,Back-end Engineer,Netflix,Austin,TX,30.2672,-97.7431,Python,"SQL, Azure, Other",Senior,131000,2024-04-06,Yes
+J0228,Data Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Python,"Machine Learning, Azure",Senior,151000,2024-04-29,Yes
+J0229,Cloud Engineer (Azure),Apple,Los Angeles,CA,34.0522,-118.2437,Azure,"SQL, AWS, Python",Senior,124000,2024-08-30,No
+J0230,BI Developer,Salesforce,Raleigh,NC,35.7796,-78.6382,SQL,Python,Entry,77000,2024-03-18,No
+J0231,Machine Learning Engineer,Microsoft,Denver,CO,39.7392,-104.9903,Machine Learning,Python,Mid,117000,2024-10-29,Yes
+J0232,Python Developer,HealthAI,Chicago,IL,41.8781,-87.6298,Python,"SQL, Machine Learning, Other",Mid,111000,2024-02-21,No
+J0233,Back-end Engineer,Google,Los Angeles,CA,34.0522,-118.2437,Python,"Other, Azure",Entry,80000,2024-03-14,No
+J0234,Data Engineer,Amazon,Chicago,IL,41.8781,-87.6298,Python,Machine Learning,Entry,84000,2024-05-15,No
+J0235,BI Developer,CloudLabs,Seattle,WA,47.6062,-122.3321,SQL,"AWS, Java",Mid,96000,2024-06-17,No
+J0236,Automation Engineer,Salesforce,Austin,TX,30.2672,-97.7431,Python,"SQL, Azure",Mid,104000,2024-09-06,No
+J0237,Cloud Engineer (Azure),DataWorks,Seattle,WA,47.6062,-122.3321,Azure,"AWS, Python",Mid,100000,2024-04-30,Yes
+J0238,Research Scientist,Meta,Los Angeles,CA,34.0522,-118.2437,Machine Learning,Azure,Entry,97000,2024-02-16,Yes
+J0239,Cloud Engineer (AWS),RetailCorp,Raleigh,NC,35.7796,-78.6382,AWS,"Python, Azure",Senior,148000,2024-02-21,No
+J0240,DevOps Engineer,FintechCo,San Francisco,CA,37.7749,-122.4194,AWS,Azure,Entry,76000,2024-01-15,No
+J0241,Azure DevOps Engineer,RetailCorp,Mountain View,CA,37.3861,-122.0839,Azure,"AWS, Python",Senior,122000,2024-05-30,Yes
+J0242,Product Analyst,Salesforce,New York,NY,40.7128,-74.006,Other,Python,Mid,82000,2024-05-05,No
+J0243,Azure DevOps Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,Azure,,Senior,137000,2024-04-02,No
+J0244,Data Scientist,Amazon,Dallas,TX,32.7767,-96.797,Machine Learning,"SQL, Azure",Mid,137000,2024-07-14,No
+J0245,Data Scientist,Netflix,Dallas,TX,32.7767,-96.797,Machine Learning,SQL,Entry,92000,2024-03-14,Yes
+J0246,BI Developer,CloudLabs,San Francisco,CA,37.7749,-122.4194,SQL,"AWS, Java",Entry,62000,2024-08-23,Yes
+J0247,Frontend Developer,DeepVision,Chicago,IL,41.8781,-87.6298,Other,"AWS, Machine Learning",Entry,64000,2024-05-27,No
+J0248,Cloud Architect,Microsoft,Seattle,WA,47.6062,-122.3321,Azure,"AWS, Python",Entry,67000,2024-08-14,No
+J0249,Data Analyst,CloudLabs,Boston,MA,42.3601,-71.0589,SQL,"Java, Azure",Mid,93000,2024-05-08,No
+J0250,Product Analyst,Meta,Boston,MA,42.3601,-71.0589,Other,Machine Learning,Mid,74000,2024-09-04,No
+J0251,QA Engineer,Salesforce,Dallas,TX,32.7767,-96.797,Other,"SQL, Python, Machine Learning",Mid,91000,2024-07-02,No
+J0252,Research Scientist,FintechCo,San Francisco,CA,37.7749,-122.4194,Machine Learning,"SQL, Azure",Senior,209000,2024-01-12,No
+J0253,Support Engineer,IBM,Mountain View,CA,37.3861,-122.0839,Other,"SQL, Java",Entry,55000,2024-10-16,Yes
+J0254,Frontend Developer,DeepVision,Dallas,TX,32.7767,-96.797,Other,Azure,Mid,74000,2024-09-11,No
+J0255,DevOps Engineer,DataWorks,Austin,TX,30.2672,-97.7431,AWS,"Python, Azure",Mid,99000,2024-04-22,No
+J0256,DevOps Engineer,DataWorks,San Francisco,CA,37.7749,-122.4194,AWS,"SQL, Python, Machine Learning",Mid,104000,2024-03-11,Yes
+J0257,Java Developer,DeepVision,Raleigh,NC,35.7796,-78.6382,Java,Other,Entry,78000,2024-01-21,No
+J0258,Software Engineer,Google,Dallas,TX,32.7767,-96.797,Java,Other,Entry,70000,2024-07-05,Yes
+J0259,Data Engineer,Amazon,San Francisco,CA,37.7749,-122.4194,Python,Azure,Entry,66000,2024-06-16,No
+J0260,ML Ops Engineer,Microsoft,Redmond,WA,47.673988,-122.121513,Machine Learning,"Python, Azure",Senior,172000,2024-03-08,No
+J0261,Software Engineer,StartupX,Denver,CO,39.7392,-104.9903,Java,Machine Learning,Entry,81000,2024-05-19,No
+J0262,Product Analyst,DeepVision,Chicago,IL,41.8781,-87.6298,Other,"Machine Learning, AWS, Java",Mid,86000,2024-05-31,Yes
+J0263,Data Analyst,RetailCorp,Seattle,WA,47.6062,-122.3321,Python,Java,Mid,109000,2024-08-27,Yes
+J0264,Data Engineer,RetailCorp,Redmond,WA,47.673988,-122.121513,Python,"SQL, Machine Learning",Mid,101000,2024-07-22,No
+J0265,Product Analyst,Amazon,Boston,MA,42.3601,-71.0589,Other,Python,Entry,62000,2024-01-08,No
+J0266,Machine Learning Engineer,Netflix,Austin,TX,30.2672,-97.7431,Machine Learning,Azure,Mid,135000,2024-05-14,Yes
+J0267,Back-end Engineer,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,SQL,Entry,80000,2024-07-09,Yes
+J0268,Cloud Architect,Meta,Chicago,IL,41.8781,-87.6298,Azure,"Other, Java",Entry,71000,2024-01-13,Yes
+J0269,Cloud Architect,Apple,Dallas,TX,32.7767,-96.797,Azure,"SQL, Python",Senior,129000,2024-04-23,No
+J0270,Frontend Developer,CloudLabs,Chicago,IL,41.8781,-87.6298,Other,"AWS, Python, Azure",Senior,114000,2024-06-03,No
+J0271,Software Engineer,Amazon,New York,NY,40.7128,-74.006,Java,Python,Senior,135000,2024-01-24,Yes
+J0272,Software Engineer,Netflix,Seattle,WA,47.6062,-122.3321,Java,Azure,Senior,140000,2024-02-19,No
+J0273,QA Engineer,Salesforce,Chicago,IL,41.8781,-87.6298,Other,"AWS, Python",Senior,108000,2024-07-08,No
+J0274,Site Reliability Engineer,DataWorks,Los Angeles,CA,34.0522,-118.2437,AWS,Azure,Entry,77000,2024-03-20,No
+J0275,Frontend Developer,HealthAI,Chicago,IL,41.8781,-87.6298,Other,Azure,Senior,122000,2024-07-27,No
+J0276,Database Administrator,FintechCo,Austin,TX,30.2672,-97.7431,SQL,Other,Mid,93000,2024-04-21,No
+J0277,Site Reliability Engineer,Meta,Austin,TX,30.2672,-97.7431,AWS,"Machine Learning, Azure",Mid,114000,2024-02-20,Yes
+J0278,Software Engineer,StartupX,Raleigh,NC,35.7796,-78.6382,Java,SQL,Mid,118000,2024-07-02,No
+J0279,ML Ops Engineer,IBM,Redmond,WA,47.673988,-122.121513,Machine Learning,Other,Mid,113000,2024-03-03,No
+J0280,Machine Learning Engineer,CloudLabs,Redmond,WA,47.673988,-122.121513,Machine Learning,,Mid,132000,2024-01-11,No
+J0281,Data Analyst,Meta,New York,NY,40.7128,-74.006,Python,AWS,Entry,78000,2024-10-16,No
+J0282,Database Administrator,HealthAI,Denver,CO,39.7392,-104.9903,SQL,"AWS, Azure",Mid,98000,2024-04-16,No
+J0283,SQL Developer,HealthAI,Redmond,WA,47.673988,-122.121513,SQL,AWS,Entry,74000,2024-06-17,No
+J0284,Automation Engineer,Google,San Francisco,CA,37.7749,-122.4194,Python,SQL,Mid,105000,2024-03-15,Yes
+J0285,Cloud Architect,RetailCorp,New York,NY,40.7128,-74.006,AWS,"SQL, Java, Other",Entry,79000,2024-02-26,Yes
+J0286,Database Administrator,Microsoft,Mountain View,CA,37.3861,-122.0839,SQL,Java,Senior,114000,2024-07-02,Yes
+J0287,Product Analyst,Google,New York,NY,40.7128,-74.006,Other,Java,Mid,87000,2024-05-15,No
+J0288,QA Engineer,FintechCo,Boston,MA,42.3601,-71.0589,Other,Azure,Mid,94000,2024-09-26,No
+J0289,Backend Developer,Amazon,Chicago,IL,41.8781,-87.6298,Java,Python,Senior,119000,2024-08-17,No
+J0290,Frontend Developer,Netflix,Denver,CO,39.7392,-104.9903,Other,"Machine Learning, AWS, Java",Mid,88000,2024-04-23,Yes
+J0291,Frontend Developer,FintechCo,Raleigh,NC,35.7796,-78.6382,Other,"SQL, Machine Learning",Mid,80000,2024-09-23,No
+J0292,ML Ops Engineer,CloudLabs,Mountain View,CA,37.3861,-122.0839,Machine Learning,AWS,Entry,96000,2024-02-01,No
+J0293,BI Developer,Salesforce,Raleigh,NC,35.7796,-78.6382,SQL,"Machine Learning, Other",Entry,69000,2024-02-25,No
+J0294,BI Developer,Amazon,Seattle,WA,47.6062,-122.3321,SQL,"Python, Java, Azure",Entry,68000,2024-06-13,Yes
+J0295,SQL Developer,Amazon,New York,NY,40.7128,-74.006,SQL,"Python, Java, Other",Mid,90000,2024-05-20,No
+J0296,Product Analyst,Salesforce,Dallas,TX,32.7767,-96.797,Other,"AWS, Machine Learning",Entry,70000,2024-09-28,No
+J0297,ML Ops Engineer,StartupX,Dallas,TX,32.7767,-96.797,Machine Learning,Python,Entry,85000,2024-08-08,No
+J0298,Cloud Engineer (AWS),HealthAI,Raleigh,NC,35.7796,-78.6382,AWS,"Java, Machine Learning",Senior,129000,2024-10-09,Yes
+J0299,Data Scientist,Salesforce,Chicago,IL,41.8781,-87.6298,Machine Learning,"SQL, Java",Senior,175000,2024-04-26,No
+J0300,Software Engineer,HealthAI,Chicago,IL,41.8781,-87.6298,Java,"SQL, Azure",Senior,152000,2024-07-23,No
+J0301,Cloud Architect,Amazon,Austin,TX,30.2672,-97.7431,Azure,"Java, Machine Learning",Mid,99000,2024-08-06,Yes
+J0302,Cloud Architect,IBM,Austin,TX,30.2672,-97.7431,Azure,SQL,Entry,67000,2024-03-19,No
+J0303,Support Engineer,Amazon,Seattle,WA,47.6062,-122.3321,Other,Azure,Entry,67000,2024-02-13,Yes
+J0304,Site Reliability Engineer,Amazon,Los Angeles,CA,34.0522,-118.2437,AWS,Java,Entry,79000,2024-07-09,No
+J0305,Frontend Developer,DataWorks,Denver,CO,39.7392,-104.9903,Other,"SQL, Azure",Entry,58000,2024-10-14,No
+J0306,Frontend Developer,Salesforce,Austin,TX,30.2672,-97.7431,Other,"Machine Learning, Azure",Mid,87000,2024-08-04,No
+J0307,Python Developer,IBM,Dallas,TX,32.7767,-96.797,Python,"SQL, Java",Entry,74000,2024-06-08,No
+J0308,Machine Learning Engineer,DataWorks,Denver,CO,39.7392,-104.9903,Machine Learning,,Entry,84000,2024-04-18,Yes
+J0309,Support Engineer,Meta,Seattle,WA,47.6062,-122.3321,Other,"Azure, Machine Learning",Senior,114000,2024-06-28,No
+J0310,Data Analyst,Amazon,San Francisco,CA,37.7749,-122.4194,SQL,,Senior,118000,2024-10-20,No
+J0311,Software Engineer,HealthAI,Denver,CO,39.7392,-104.9903,Java,AWS,Mid,114000,2024-10-12,No
+J0312,Data Analyst,Google,New York,NY,40.7128,-74.006,SQL,"AWS, Java",Entry,70000,2024-05-19,Yes
+J0313,Data Analyst,DeepVision,Austin,TX,30.2672,-97.7431,SQL,,Senior,131000,2024-06-28,Yes
+J0314,QA Engineer,HealthAI,New York,NY,40.7128,-74.006,Other,"Python, Azure",Senior,112000,2024-10-16,No
+J0315,Support Engineer,Amazon,New York,NY,40.7128,-74.006,Other,Java,Entry,57000,2024-01-16,Yes
+J0316,Automation Engineer,Meta,Boston,MA,42.3601,-71.0589,Python,Machine Learning,Senior,147000,2024-08-02,No
+J0317,Cloud Architect,Microsoft,Austin,TX,30.2672,-97.7431,AWS,"Azure, Machine Learning, Other",Entry,58000,2024-06-08,Yes
+J0318,Data Analyst,RetailCorp,Dallas,TX,32.7767,-96.797,Python,Other,Mid,113000,2024-02-13,Yes
+J0319,Data Engineer,Microsoft,Dallas,TX,32.7767,-96.797,Python,"SQL, AWS, Java",Senior,135000,2024-01-26,No
+J0320,Database Administrator,IBM,Chicago,IL,41.8781,-87.6298,SQL,"AWS, Python",Mid,95000,2024-08-05,Yes
+J0321,Support Engineer,Salesforce,San Francisco,CA,37.7749,-122.4194,Other,"Python, Machine Learning",Entry,64000,2024-04-20,No
+J0322,Frontend Developer,Apple,Boston,MA,42.3601,-71.0589,Other,"Java, Machine Learning",Mid,79000,2024-02-26,No
+J0323,ML Ops Engineer,StartupX,Raleigh,NC,35.7796,-78.6382,Machine Learning,Other,Mid,116000,2024-06-06,No
+J0324,Data Scientist,Salesforce,Dallas,TX,32.7767,-96.797,Machine Learning,Java,Entry,92000,2024-01-29,No
+J0325,Data Engineer,IBM,Redmond,WA,47.673988,-122.121513,Python,"Java, Other",Mid,107000,2024-03-11,No
+J0326,Data Analyst,Apple,Seattle,WA,47.6062,-122.3321,Python,Java,Mid,110000,2024-01-04,Yes
+J0327,BI Developer,Microsoft,New York,NY,40.7128,-74.006,SQL,"AWS, Machine Learning, Other",Senior,114000,2024-07-13,No
+J0328,SQL Developer,StartupX,Denver,CO,39.7392,-104.9903,SQL,Azure,Entry,68000,2024-06-30,Yes
+J0329,BI Developer,HealthAI,Los Angeles,CA,34.0522,-118.2437,SQL,"Java, Machine Learning",Mid,77000,2024-01-22,No
+J0330,Frontend Developer,Netflix,Seattle,WA,47.6062,-122.3321,Other,Python,Senior,107000,2024-06-09,No
+J0331,Support Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Other,"Java, Machine Learning",Entry,63000,2024-08-01,No
+J0332,Machine Learning Engineer,Salesforce,Mountain View,CA,37.3861,-122.0839,Machine Learning,Azure,Entry,92000,2024-06-15,No
+J0333,Backend Developer,Netflix,Los Angeles,CA,34.0522,-118.2437,Java,Machine Learning,Entry,65000,2024-07-04,No
+J0334,Azure DevOps Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,Azure,"Python, Other",Entry,71000,2024-05-04,No
+J0335,Automation Engineer,Salesforce,Denver,CO,39.7392,-104.9903,Python,"Machine Learning, Azure",Entry,74000,2024-02-10,No
+J0336,Product Analyst,FintechCo,Austin,TX,30.2672,-97.7431,Other,"AWS, Machine Learning",Mid,94000,2024-04-23,Yes
+J0337,Data Engineer,Amazon,Denver,CO,39.7392,-104.9903,Python,"Machine Learning, Other, Azure",Mid,103000,2024-02-28,No
+J0338,QA Engineer,DeepVision,Austin,TX,30.2672,-97.7431,Other,"SQL, Python",Entry,66000,2024-06-28,Yes
+J0339,Data Engineer,Meta,Seattle,WA,47.6062,-122.3321,Python,"SQL, Other",Mid,116000,2024-03-15,Yes
+J0340,QA Engineer,Microsoft,Dallas,TX,32.7767,-96.797,Other,"SQL, AWS, Machine Learning",Senior,121000,2024-03-19,No
+J0341,Machine Learning Engineer,Microsoft,Raleigh,NC,35.7796,-78.6382,Machine Learning,"SQL, AWS",Mid,136000,2024-09-09,No
+J0342,Support Engineer,CloudLabs,Dallas,TX,32.7767,-96.797,Other,"AWS, Python, Azure",Entry,66000,2024-06-14,No
+J0343,Software Engineer,Microsoft,Chicago,IL,41.8781,-87.6298,Java,"AWS, Azure",Senior,125000,2024-02-04,Yes
+J0344,Support Engineer,CloudLabs,San Francisco,CA,37.7749,-122.4194,Other,Azure,Mid,83000,2024-05-20,No
+J0345,Frontend Developer,Apple,Denver,CO,39.7392,-104.9903,Other,Azure,Entry,60000,2024-02-07,No
+J0346,Software Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Java,Azure,Entry,81000,2024-01-30,No
+J0347,Product Analyst,Amazon,Raleigh,NC,35.7796,-78.6382,Other,"AWS, Machine Learning",Entry,61000,2024-02-16,No
+J0348,ML Ops Engineer,Netflix,Dallas,TX,32.7767,-96.797,Machine Learning,"Java, Azure",Entry,93000,2024-10-10,No
+J0349,Java Developer,Netflix,Dallas,TX,32.7767,-96.797,Java,Azure,Mid,105000,2024-04-06,No
+J0350,Backend Developer,Netflix,Denver,CO,39.7392,-104.9903,Java,Other,Senior,112000,2024-03-18,Yes
+J0351,ML Ops Engineer,Amazon,Austin,TX,30.2672,-97.7431,Machine Learning,"SQL, AWS",Senior,176000,2024-02-13,No
+J0352,SQL Developer,Google,Redmond,WA,47.673988,-122.121513,SQL,"Other, Azure",Mid,98000,2024-08-12,No
+J0353,Cloud Architect,StartupX,Dallas,TX,32.7767,-96.797,Azure,SQL,Entry,80000,2024-03-22,No
+J0354,Product Analyst,DeepVision,San Francisco,CA,37.7749,-122.4194,Other,"SQL, Python",Entry,74000,2024-07-17,No
+J0355,Software Engineer,CloudLabs,Dallas,TX,32.7767,-96.797,Java,"SQL, AWS",Senior,129000,2024-01-27,No
+J0356,Cloud Architect,Amazon,Austin,TX,30.2672,-97.7431,AWS,"SQL, Azure",Mid,115000,2024-02-18,No
+J0357,Site Reliability Engineer,IBM,San Francisco,CA,37.7749,-122.4194,AWS,"Python, Machine Learning",Mid,115000,2024-03-17,No
+J0358,Machine Learning Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,Machine Learning,"SQL, Java",Mid,124000,2024-03-13,No
+J0359,Research Scientist,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Machine Learning,Other,Mid,141000,2024-07-19,Yes
+J0360,Database Administrator,IBM,Denver,CO,39.7392,-104.9903,SQL,"AWS, Java, Azure",Mid,100000,2024-07-11,No
+J0361,Product Analyst,HealthAI,New York,NY,40.7128,-74.006,Other,Java,Entry,62000,2024-09-26,Yes
+J0362,BI Developer,StartupX,Austin,TX,30.2672,-97.7431,SQL,Other,Mid,105000,2024-01-10,Yes
+J0363,Software Engineer,Microsoft,Redmond,WA,47.673988,-122.121513,Java,Machine Learning,Mid,92000,2024-06-23,No
+J0364,Data Engineer,Meta,New York,NY,40.7128,-74.006,Python,Azure,Mid,126000,2024-03-20,No
+J0365,Azure DevOps Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,Azure,"SQL, AWS",Senior,130000,2024-09-16,Yes
+J0366,Automation Engineer,Google,Raleigh,NC,35.7796,-78.6382,Python,"Java, Azure",Senior,127000,2024-06-21,No
+J0367,QA Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Other,Java,Entry,59000,2024-03-19,No
+J0368,Data Engineer,HealthAI,Los Angeles,CA,34.0522,-118.2437,Python,"Machine Learning, SQL, Java",Senior,149000,2024-03-25,Yes
+J0369,Back-end Engineer,Google,Boston,MA,42.3601,-71.0589,Python,"Machine Learning, Azure",Mid,85000,2024-07-05,Yes
+J0370,SQL Developer,Netflix,Dallas,TX,32.7767,-96.797,SQL,"Python, Machine Learning, Other",Entry,68000,2024-05-25,No
+J0371,Support Engineer,Meta,Denver,CO,39.7392,-104.9903,Other,Machine Learning,Entry,61000,2024-05-02,Yes
+J0372,Support Engineer,DeepVision,Redmond,WA,47.673988,-122.121513,Other,"SQL, Azure",Entry,60000,2024-07-07,No
+J0373,BI Developer,Netflix,San Francisco,CA,37.7749,-122.4194,SQL,"Machine Learning, Java",Entry,74000,2024-07-14,No
+J0374,Site Reliability Engineer,Microsoft,Redmond,WA,47.673988,-122.121513,AWS,SQL,Senior,159000,2024-03-11,No
+J0375,Machine Learning Engineer,CloudLabs,Chicago,IL,41.8781,-87.6298,Machine Learning,"Python, Java, Azure",Senior,168000,2024-07-09,No
+J0376,Database Administrator,FintechCo,Denver,CO,39.7392,-104.9903,SQL,Java,Mid,90000,2024-03-04,No
+J0377,Cloud Engineer (AWS),RetailCorp,New York,NY,40.7128,-74.006,AWS,Python,Senior,119000,2024-05-19,Yes
+J0378,SQL Developer,HealthAI,Boston,MA,42.3601,-71.0589,SQL,Other,Entry,75000,2024-02-16,No
+J0379,ML Ops Engineer,DeepVision,Austin,TX,30.2672,-97.7431,Machine Learning,"AWS, Python",Senior,162000,2024-01-14,No
+J0380,Machine Learning Engineer,Salesforce,Denver,CO,39.7392,-104.9903,Machine Learning,Azure,Mid,115000,2024-07-10,No
+J0381,ML Ops Engineer,Amazon,Austin,TX,30.2672,-97.7431,Machine Learning,AWS,Entry,90000,2024-04-24,No
+J0382,Research Scientist,DeepVision,Seattle,WA,47.6062,-122.3321,Machine Learning,Azure,Entry,109000,2024-06-20,No
+J0383,DevOps Engineer,Google,San Francisco,CA,37.7749,-122.4194,AWS,"Machine Learning, Java, Other",Entry,72000,2024-08-29,No
+J0384,QA Engineer,RetailCorp,Los Angeles,CA,34.0522,-118.2437,Other,Java,Senior,116000,2024-08-28,No
+J0385,Automation Engineer,Google,Seattle,WA,47.6062,-122.3321,Python,"SQL, Machine Learning",Entry,80000,2024-01-10,No
+J0386,Data Scientist,HealthAI,New York,NY,40.7128,-74.006,Machine Learning,"AWS, Python",Entry,98000,2024-10-07,No
+J0387,Support Engineer,Amazon,San Francisco,CA,37.7749,-122.4194,Other,AWS,Entry,50000,2024-05-01,No
+J0388,Database Administrator,Google,Redmond,WA,47.673988,-122.121513,SQL,"Python, Machine Learning",Entry,63000,2024-08-02,No
+J0389,Backend Developer,Netflix,Seattle,WA,47.6062,-122.3321,Java,SQL,Senior,138000,2024-02-26,No
+J0390,Machine Learning Engineer,CloudLabs,Denver,CO,39.7392,-104.9903,Machine Learning,AWS,Entry,92000,2024-10-21,No
+J0391,QA Engineer,IBM,Boston,MA,42.3601,-71.0589,Other,"Machine Learning, Java",Entry,74000,2024-01-01,No
+J0392,Data Analyst,Meta,Dallas,TX,32.7767,-96.797,SQL,Azure,Senior,125000,2024-08-01,Yes
+J0393,Frontend Developer,StartupX,Austin,TX,30.2672,-97.7431,Other,Java,Senior,115000,2024-02-04,Yes
+J0394,Cloud Architect,StartupX,Denver,CO,39.7392,-104.9903,Azure,Machine Learning,Entry,71000,2024-10-10,No
+J0395,Site Reliability Engineer,HealthAI,Chicago,IL,41.8781,-87.6298,AWS,"Python, Machine Learning",Entry,76000,2024-01-23,No
+J0396,BI Developer,Apple,San Francisco,CA,37.7749,-122.4194,SQL,"AWS, Java",Entry,67000,2024-01-09,No
+J0397,Database Administrator,Apple,Redmond,WA,47.673988,-122.121513,SQL,"AWS, Python",Senior,126000,2024-02-23,No
+J0398,Cloud Architect,Microsoft,Mountain View,CA,37.3861,-122.0839,AWS,"SQL, Azure",Entry,73000,2024-06-29,No
+J0399,Research Scientist,HealthAI,Raleigh,NC,35.7796,-78.6382,Machine Learning,"SQL, AWS, Python",Entry,89000,2024-03-30,No
+J0400,Support Engineer,FintechCo,Chicago,IL,41.8781,-87.6298,Other,Azure,Mid,96000,2024-04-03,No
+J0401,Frontend Developer,FintechCo,Chicago,IL,41.8781,-87.6298,Other,"AWS, Machine Learning",Senior,106000,2024-01-19,No
+J0402,Data Engineer,Google,Redmond,WA,47.673988,-122.121513,Python,Other,Mid,113000,2024-01-22,Yes
+J0403,Software Engineer,StartupX,Boston,MA,42.3601,-71.0589,Java,Other,Mid,85000,2024-10-05,Yes
+J0404,Data Analyst,Google,Raleigh,NC,35.7796,-78.6382,SQL,"Machine Learning, Azure",Mid,96000,2024-04-07,No
+J0405,Product Analyst,HealthAI,Mountain View,CA,37.3861,-122.0839,Other,"Python, Azure",Senior,100000,2024-06-18,No
+J0406,Machine Learning Engineer,RetailCorp,Austin,TX,30.2672,-97.7431,Machine Learning,Azure,Entry,100000,2024-08-11,Yes
+J0407,Site Reliability Engineer,DeepVision,Boston,MA,42.3601,-71.0589,AWS,,Entry,84000,2024-06-22,No
+J0408,Back-end Engineer,FintechCo,Chicago,IL,41.8781,-87.6298,Python,"SQL, Other, Azure",Mid,107000,2024-07-07,Yes
+J0409,Azure DevOps Engineer,RetailCorp,Seattle,WA,47.6062,-122.3321,Azure,Machine Learning,Senior,133000,2024-08-05,Yes
+J0410,Support Engineer,DataWorks,New York,NY,40.7128,-74.006,Other,"AWS, Machine Learning",Mid,91000,2024-10-06,No
+J0411,Data Analyst,Amazon,Seattle,WA,47.6062,-122.3321,SQL,"Machine Learning, Python, Java",Senior,127000,2024-06-16,Yes
+J0412,Data Analyst,IBM,Chicago,IL,41.8781,-87.6298,Python,,Mid,104000,2024-08-06,No
+J0413,Back-end Engineer,Apple,Chicago,IL,41.8781,-87.6298,Python,"AWS, Machine Learning",Entry,83000,2024-01-22,No
+J0414,Software Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Java,"Python, Other",Mid,112000,2024-05-20,Yes
+J0415,Database Administrator,Amazon,Raleigh,NC,35.7796,-78.6382,SQL,Azure,Senior,124000,2024-07-26,No
+J0416,Backend Developer,RetailCorp,Los Angeles,CA,34.0522,-118.2437,Java,,Entry,69000,2024-03-22,No
+J0417,Data Engineer,HealthAI,Dallas,TX,32.7767,-96.797,Python,,Entry,81000,2024-08-12,Yes
+J0418,QA Engineer,Amazon,Redmond,WA,47.673988,-122.121513,Other,,Entry,64000,2024-07-06,Yes
+J0419,Support Engineer,DataWorks,Mountain View,CA,37.3861,-122.0839,Other,"Java, Machine Learning, Azure",Mid,82000,2024-03-19,No
+J0420,Software Engineer,Apple,Austin,TX,30.2672,-97.7431,Java,,Mid,93000,2024-08-15,No
+J0421,Backend Developer,Microsoft,Denver,CO,39.7392,-104.9903,Java,"AWS, Azure",Entry,76000,2024-07-06,Yes
+J0422,Data Analyst,CloudLabs,San Francisco,CA,37.7749,-122.4194,SQL,Python,Mid,90000,2024-05-07,No
+J0423,Java Developer,FintechCo,New York,NY,40.7128,-74.006,Java,"SQL, Machine Learning, Azure",Entry,68000,2024-09-12,No
+J0424,BI Developer,DeepVision,Denver,CO,39.7392,-104.9903,SQL,"Python, Java",Mid,85000,2024-03-01,No
+J0425,Software Engineer,FintechCo,Chicago,IL,41.8781,-87.6298,Java,Python,Mid,90000,2024-04-19,Yes
+J0426,Data Analyst,FintechCo,Chicago,IL,41.8781,-87.6298,Python,AWS,Entry,63000,2024-04-12,No
+J0427,SQL Developer,HealthAI,Seattle,WA,47.6062,-122.3321,SQL,,Mid,84000,2024-08-19,No
+J0428,Support Engineer,Amazon,Raleigh,NC,35.7796,-78.6382,Other,"Python, Java",Entry,60000,2024-06-12,No
+J0429,Research Scientist,FintechCo,Seattle,WA,47.6062,-122.3321,Machine Learning,"AWS, Azure",Senior,163000,2024-10-08,No
+J0430,Product Analyst,DeepVision,San Francisco,CA,37.7749,-122.4194,Other,"AWS, Machine Learning",Entry,62000,2024-03-21,No
+J0431,Backend Developer,DeepVision,Los Angeles,CA,34.0522,-118.2437,Java,"SQL, Other",Entry,65000,2024-03-30,No
+J0432,Cloud Architect,Meta,Seattle,WA,47.6062,-122.3321,Azure,,Senior,138000,2024-04-12,Yes
+J0433,SQL Developer,RetailCorp,Chicago,IL,41.8781,-87.6298,SQL,Machine Learning,Entry,77000,2024-01-14,No
+J0434,Cloud Architect,Netflix,Denver,CO,39.7392,-104.9903,AWS,"Machine Learning, Other",Entry,81000,2024-03-07,No
+J0435,Frontend Developer,Amazon,San Francisco,CA,37.7749,-122.4194,Other,"SQL, Java",Mid,93000,2024-07-22,No
+J0436,Site Reliability Engineer,StartupX,Boston,MA,42.3601,-71.0589,AWS,"SQL, Azure",Mid,98000,2024-07-28,Yes
+J0437,Python Developer,Microsoft,Austin,TX,30.2672,-97.7431,Python,"SQL, Java",Entry,82000,2024-02-07,No
+J0438,Support Engineer,CloudLabs,Denver,CO,39.7392,-104.9903,Other,SQL,Senior,101000,2024-06-25,Yes
+J0439,DevOps Engineer,RetailCorp,New York,NY,40.7128,-74.006,AWS,"SQL, Java",Entry,92000,2024-08-09,No
+J0440,Database Administrator,HealthAI,Seattle,WA,47.6062,-122.3321,SQL,Python,Mid,91000,2024-09-22,Yes
+J0441,Cloud Architect,Microsoft,New York,NY,40.7128,-74.006,AWS,"Python, Java, Azure",Senior,128000,2024-06-14,No
+J0442,DevOps Engineer,Apple,Denver,CO,39.7392,-104.9903,AWS,,Senior,135000,2024-05-25,No
+J0443,Research Scientist,Meta,Raleigh,NC,35.7796,-78.6382,Machine Learning,"SQL, Other",Senior,168000,2024-10-09,Yes
+J0444,DevOps Engineer,CloudLabs,San Francisco,CA,37.7749,-122.4194,AWS,Python,Entry,74000,2024-09-30,No
+J0445,Automation Engineer,CloudLabs,New York,NY,40.7128,-74.006,Python,"AWS, Other",Entry,88000,2024-10-30,No
+J0446,Java Developer,Microsoft,Raleigh,NC,35.7796,-78.6382,Java,"Machine Learning, SQL",Entry,80000,2024-06-21,No
+J0447,Machine Learning Engineer,HealthAI,Mountain View,CA,37.3861,-122.0839,Machine Learning,SQL,Entry,85000,2024-02-11,Yes
+J0448,Automation Engineer,IBM,Raleigh,NC,35.7796,-78.6382,Python,"SQL, AWS",Entry,80000,2024-04-17,No
+J0449,Back-end Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,Python,"SQL, Java",Mid,110000,2024-01-16,No
+J0450,Cloud Architect,CloudLabs,San Francisco,CA,37.7749,-122.4194,AWS,SQL,Mid,105000,2024-09-04,No
+J0451,Support Engineer,IBM,Chicago,IL,41.8781,-87.6298,Other,"Machine Learning, Java, Azure",Entry,61000,2024-02-07,No
+J0452,Cloud Engineer (AWS),Microsoft,Chicago,IL,41.8781,-87.6298,AWS,"Java, Azure",Mid,109000,2024-07-31,Yes
+J0453,Support Engineer,Meta,Austin,TX,30.2672,-97.7431,Other,"SQL, Python",Entry,64000,2024-03-14,No
+J0454,Backend Developer,Apple,Los Angeles,CA,34.0522,-118.2437,Java,"AWS, Other",Entry,77000,2024-06-25,No
+J0455,Data Engineer,RetailCorp,Austin,TX,30.2672,-97.7431,Python,"AWS, Java",Mid,105000,2024-09-20,No
+J0456,Java Developer,Apple,Redmond,WA,47.673988,-122.121513,Java,SQL,Mid,105000,2024-08-26,No
+J0457,Azure DevOps Engineer,Netflix,Redmond,WA,47.673988,-122.121513,Azure,,Entry,73000,2024-03-13,Yes
+J0458,Frontend Developer,IBM,Boston,MA,42.3601,-71.0589,Other,AWS,Senior,117000,2024-08-02,No
+J0459,DevOps Engineer,HealthAI,Austin,TX,30.2672,-97.7431,AWS,"Machine Learning, Python, Java",Entry,78000,2024-10-22,No
+J0460,Data Analyst,Meta,New York,NY,40.7128,-74.006,Python,"SQL, AWS",Senior,162000,2024-09-12,No
+J0461,ML Ops Engineer,Netflix,San Francisco,CA,37.7749,-122.4194,Machine Learning,Azure,Senior,145000,2024-09-11,No
+J0462,Machine Learning Engineer,Salesforce,Denver,CO,39.7392,-104.9903,Machine Learning,AWS,Mid,143000,2024-08-22,No
+J0463,Data Scientist,DataWorks,Austin,TX,30.2672,-97.7431,Machine Learning,Other,Mid,142000,2024-01-25,No
+J0464,Product Analyst,Netflix,Dallas,TX,32.7767,-96.797,Other,Python,Mid,83000,2024-08-28,Yes
+J0465,Automation Engineer,Google,Seattle,WA,47.6062,-122.3321,Python,Other,Mid,101000,2024-08-08,No
+J0466,Cloud Architect,FintechCo,Austin,TX,30.2672,-97.7431,AWS,"Java, Azure",Mid,98000,2024-07-25,No
+J0467,Python Developer,Salesforce,Mountain View,CA,37.3861,-122.0839,Python,"SQL, Azure",Mid,120000,2024-10-18,No
+J0468,Java Developer,Apple,Denver,CO,39.7392,-104.9903,Java,Python,Senior,140000,2024-05-27,Yes
+J0469,BI Developer,StartupX,Chicago,IL,41.8781,-87.6298,SQL,"Azure, Other",Senior,133000,2024-10-08,Yes
+J0470,Cloud Architect,CloudLabs,Dallas,TX,32.7767,-96.797,Azure,Python,Senior,133000,2024-03-01,Yes
+J0471,Python Developer,Salesforce,Austin,TX,30.2672,-97.7431,Python,"AWS, Machine Learning",Senior,148000,2024-06-22,No
+J0472,Data Analyst,RetailCorp,New York,NY,40.7128,-74.006,Python,"Machine Learning, Azure",Mid,114000,2024-04-11,No
+J0473,Automation Engineer,Salesforce,Denver,CO,39.7392,-104.9903,Python,Java,Entry,80000,2024-01-21,No
+J0474,Python Developer,Microsoft,Los Angeles,CA,34.0522,-118.2437,Python,"SQL, Azure",Entry,78000,2024-06-19,Yes
+J0475,ML Ops Engineer,Microsoft,Dallas,TX,32.7767,-96.797,Machine Learning,SQL,Senior,167000,2024-09-20,No
+J0476,Software Engineer,DeepVision,Dallas,TX,32.7767,-96.797,Java,SQL,Entry,72000,2024-06-12,No
+J0477,Support Engineer,DataWorks,Los Angeles,CA,34.0522,-118.2437,Other,Java,Senior,118000,2024-06-02,No
+J0478,Research Scientist,StartupX,Denver,CO,39.7392,-104.9903,Machine Learning,Java,Entry,92000,2024-09-29,Yes
+J0479,Cloud Architect,Netflix,Mountain View,CA,37.3861,-122.0839,AWS,"SQL, Azure",Senior,143000,2024-07-07,No
+J0480,Backend Developer,Amazon,Boston,MA,42.3601,-71.0589,Java,"SQL, Azure",Entry,67000,2024-10-25,No
+J0481,Database Administrator,DataWorks,Chicago,IL,41.8781,-87.6298,SQL,"AWS, Java, Machine Learning",Entry,71000,2024-05-15,No
+J0482,SQL Developer,FintechCo,Mountain View,CA,37.3861,-122.0839,SQL,Azure,Mid,82000,2024-10-25,Yes
+J0483,Java Developer,StartupX,Raleigh,NC,35.7796,-78.6382,Java,Other,Entry,67000,2024-07-13,Yes
+J0484,QA Engineer,Google,Dallas,TX,32.7767,-96.797,Other,Azure,Mid,93000,2024-02-26,No
+J0485,Python Developer,Netflix,Austin,TX,30.2672,-97.7431,Python,AWS,Senior,133000,2024-08-02,No
+J0486,Back-end Engineer,FintechCo,Redmond,WA,47.673988,-122.121513,Python,"SQL, Machine Learning",Mid,120000,2024-07-29,No
+J0487,Support Engineer,HealthAI,Los Angeles,CA,34.0522,-118.2437,Other,"AWS, Java, Machine Learning",Mid,83000,2024-02-01,Yes
+J0488,Data Engineer,StartupX,Redmond,WA,47.673988,-122.121513,Python,"AWS, Machine Learning",Mid,117000,2024-10-14,No
+J0489,Backend Developer,Netflix,Denver,CO,39.7392,-104.9903,Java,Python,Entry,75000,2024-07-11,Yes
+J0490,Data Engineer,Netflix,Denver,CO,39.7392,-104.9903,Python,Azure,Mid,107000,2024-06-24,Yes
+J0491,Product Analyst,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Other,"Python, Machine Learning",Mid,84000,2024-05-15,No
+J0492,Back-end Engineer,Meta,Redmond,WA,47.673988,-122.121513,Python,"AWS, Machine Learning",Mid,106000,2024-05-22,Yes
+J0493,Product Analyst,Meta,San Francisco,CA,37.7749,-122.4194,Other,"Python, Azure",Mid,87000,2024-05-27,No
+J0494,QA Engineer,FintechCo,Los Angeles,CA,34.0522,-118.2437,Other,Java,Entry,63000,2024-09-07,No
+J0495,BI Developer,Apple,Denver,CO,39.7392,-104.9903,SQL,"Machine Learning, Azure",Entry,75000,2024-05-20,No
+J0496,Cloud Engineer (AWS),DataWorks,Raleigh,NC,35.7796,-78.6382,AWS,"Python, Azure",Mid,112000,2024-10-05,No
+J0497,BI Developer,HealthAI,Austin,TX,30.2672,-97.7431,SQL,Java,Entry,59000,2024-03-15,Yes
+J0498,Cloud Engineer (AWS),IBM,Los Angeles,CA,34.0522,-118.2437,AWS,"Python, Azure",Entry,76000,2024-02-10,Yes
+J0499,Site Reliability Engineer,CloudLabs,San Francisco,CA,37.7749,-122.4194,AWS,Azure,Mid,112000,2024-09-02,Yes
+J0500,Cloud Engineer (Azure),HealthAI,Denver,CO,39.7392,-104.9903,Azure,"SQL, Machine Learning",Senior,103000,2024-05-18,No
+J0501,Data Analyst,Microsoft,Seattle,WA,47.6062,-122.3321,SQL,,Senior,125000,2024-10-27,No
+J0502,Data Scientist,Google,Raleigh,NC,35.7796,-78.6382,Machine Learning,Other,Entry,105000,2024-09-28,No
+J0503,Data Engineer,Google,Seattle,WA,47.6062,-122.3321,Python,Machine Learning,Entry,80000,2024-07-30,No
+J0504,Back-end Engineer,Amazon,Raleigh,NC,35.7796,-78.6382,Python,Machine Learning,Entry,89000,2024-03-11,No
+J0505,QA Engineer,Salesforce,Raleigh,NC,35.7796,-78.6382,Other,Python,Mid,94000,2024-08-31,No
+J0506,SQL Developer,RetailCorp,San Francisco,CA,37.7749,-122.4194,SQL,"AWS, Java",Entry,69000,2024-06-13,Yes
+J0507,Database Administrator,DeepVision,Seattle,WA,47.6062,-122.3321,SQL,,Mid,94000,2024-10-20,No
+J0508,Frontend Developer,DeepVision,New York,NY,40.7128,-74.006,Other,Machine Learning,Entry,69000,2024-08-01,No
+J0509,Frontend Developer,HealthAI,Boston,MA,42.3601,-71.0589,Other,Machine Learning,Entry,55000,2024-09-10,No
+J0510,Product Analyst,DeepVision,Mountain View,CA,37.3861,-122.0839,Other,"AWS, Java",Senior,105000,2024-01-05,Yes
+J0511,Frontend Developer,DeepVision,Austin,TX,30.2672,-97.7431,Other,Machine Learning,Mid,93000,2024-05-25,No
+J0512,Cloud Architect,StartupX,Denver,CO,39.7392,-104.9903,Azure,Other,Mid,102000,2024-09-09,No
+J0513,Automation Engineer,Netflix,San Francisco,CA,37.7749,-122.4194,Python,SQL,Entry,72000,2024-04-08,No
+J0514,Product Analyst,Microsoft,Los Angeles,CA,34.0522,-118.2437,Other,"SQL, Java, Azure",Entry,60000,2024-08-22,Yes
+J0515,Data Analyst,FintechCo,New York,NY,40.7128,-74.006,SQL,"Azure, Java, Other",Senior,145000,2024-01-08,No
+J0516,Product Analyst,RetailCorp,San Francisco,CA,37.7749,-122.4194,Other,"Machine Learning, AWS, Java",Mid,72000,2024-10-17,No
+J0517,QA Engineer,Microsoft,Dallas,TX,32.7767,-96.797,Other,"Python, Azure",Senior,107000,2024-07-26,Yes
+J0518,Product Analyst,Amazon,Boston,MA,42.3601,-71.0589,Other,AWS,Senior,116000,2024-02-18,No
+J0519,Data Scientist,Netflix,Austin,TX,30.2672,-97.7431,Machine Learning,Other,Entry,109000,2024-05-07,Yes
+J0520,Data Analyst,Salesforce,Redmond,WA,47.673988,-122.121513,Python,"AWS, Machine Learning",Entry,71000,2024-08-16,No
+J0521,Cloud Architect,IBM,Dallas,TX,32.7767,-96.797,AWS,SQL,Mid,109000,2024-10-20,No
+J0522,Data Analyst,CloudLabs,Austin,TX,30.2672,-97.7431,Python,Machine Learning,Mid,109000,2024-04-30,Yes
+J0523,Backend Developer,Amazon,Chicago,IL,41.8781,-87.6298,Java,Azure,Mid,102000,2024-06-06,No
+J0524,Software Engineer,CloudLabs,Denver,CO,39.7392,-104.9903,Java,Machine Learning,Senior,117000,2024-06-08,No
+J0525,Database Administrator,CloudLabs,San Francisco,CA,37.7749,-122.4194,SQL,"AWS, Other",Mid,90000,2024-07-07,Yes
+J0526,SQL Developer,Meta,New York,NY,40.7128,-74.006,SQL,Machine Learning,Mid,87000,2024-09-01,No
+J0527,Back-end Engineer,FintechCo,Dallas,TX,32.7767,-96.797,Python,AWS,Entry,84000,2024-07-10,Yes
+J0528,Support Engineer,RetailCorp,Denver,CO,39.7392,-104.9903,Other,Machine Learning,Entry,60000,2024-04-21,Yes
+J0529,Automation Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,Python,SQL,Entry,68000,2024-09-26,No
+J0530,Cloud Architect,Amazon,Dallas,TX,32.7767,-96.797,AWS,SQL,Mid,101000,2024-02-27,No
+J0531,SQL Developer,DataWorks,Denver,CO,39.7392,-104.9903,SQL,Python,Entry,60000,2024-03-17,Yes
+J0532,Product Analyst,HealthAI,Denver,CO,39.7392,-104.9903,Other,Java,Entry,61000,2024-08-14,Yes
+J0533,DevOps Engineer,FintechCo,Dallas,TX,32.7767,-96.797,AWS,Machine Learning,Mid,89000,2024-09-07,No
+J0534,BI Developer,RetailCorp,Mountain View,CA,37.3861,-122.0839,SQL,Other,Entry,78000,2024-08-20,No
+J0535,Support Engineer,Netflix,Dallas,TX,32.7767,-96.797,Other,"SQL, Machine Learning",Mid,90000,2024-01-30,Yes
+J0536,Software Engineer,CloudLabs,San Francisco,CA,37.7749,-122.4194,Java,"AWS, Other",Entry,75000,2024-01-12,Yes
+J0537,Software Engineer,HealthAI,Mountain View,CA,37.3861,-122.0839,Java,"AWS, Python, Other",Entry,76000,2024-04-21,No
+J0538,Frontend Developer,Google,Boston,MA,42.3601,-71.0589,Other,"SQL, Java",Entry,59000,2024-06-25,No
+J0539,Machine Learning Engineer,StartupX,Mountain View,CA,37.3861,-122.0839,Machine Learning,"Java, Azure",Mid,128000,2024-02-05,No
+J0540,Java Developer,IBM,Boston,MA,42.3601,-71.0589,Java,Azure,Entry,76000,2024-04-02,Yes
+J0541,Support Engineer,Apple,Boston,MA,42.3601,-71.0589,Other,AWS,Entry,56000,2024-08-17,Yes
+J0542,BI Developer,Amazon,Raleigh,NC,35.7796,-78.6382,SQL,AWS,Entry,62000,2024-10-03,No
+J0543,Product Analyst,Amazon,New York,NY,40.7128,-74.006,Other,"Java, Azure",Senior,95000,2024-10-02,No
+J0544,QA Engineer,FintechCo,Redmond,WA,47.673988,-122.121513,Other,Azure,Entry,58000,2024-01-02,No
+J0545,Product Analyst,Netflix,Raleigh,NC,35.7796,-78.6382,Other,"Java, Azure",Mid,90000,2024-10-05,Yes
+J0546,Site Reliability Engineer,HealthAI,Redmond,WA,47.673988,-122.121513,AWS,SQL,Mid,99000,2024-05-06,Yes
+J0547,Data Analyst,Microsoft,San Francisco,CA,37.7749,-122.4194,SQL,"Python, Azure",Mid,101000,2024-04-06,No
+J0548,Database Administrator,Google,Raleigh,NC,35.7796,-78.6382,SQL,"Java, Azure",Mid,84000,2024-08-02,No
+J0549,Cloud Engineer (Azure),Meta,Redmond,WA,47.673988,-122.121513,Azure,SQL,Entry,70000,2024-02-04,No
+J0550,Cloud Architect,Google,Chicago,IL,41.8781,-87.6298,Azure,Python,Mid,102000,2024-01-25,Yes
+J0551,Python Developer,Salesforce,Chicago,IL,41.8781,-87.6298,Python,Java,Senior,141000,2024-04-29,No
+J0552,SQL Developer,RetailCorp,Mountain View,CA,37.3861,-122.0839,SQL,"AWS, Python, Other",Senior,123000,2024-03-12,No
+J0553,Software Engineer,Meta,Los Angeles,CA,34.0522,-118.2437,Java,"SQL, Other",Mid,85000,2024-10-21,No
+J0554,Cloud Architect,Meta,San Francisco,CA,37.7749,-122.4194,AWS,Python,Senior,142000,2024-03-14,No
+J0555,Automation Engineer,Meta,Boston,MA,42.3601,-71.0589,Python,"AWS, Machine Learning",Mid,109000,2024-06-02,No
+J0556,Cloud Engineer (Azure),StartupX,Dallas,TX,32.7767,-96.797,Azure,"AWS, Python, Java",Mid,102000,2024-03-30,No
+J0557,ML Ops Engineer,StartupX,Chicago,IL,41.8781,-87.6298,Machine Learning,Other,Entry,95000,2024-01-25,No
+J0558,BI Developer,RetailCorp,Denver,CO,39.7392,-104.9903,SQL,"Python, Java, Other",Senior,126000,2024-06-12,No
+J0559,Support Engineer,Salesforce,New York,NY,40.7128,-74.006,Other,Machine Learning,Senior,111000,2024-06-02,Yes
+J0560,Data Engineer,RetailCorp,Denver,CO,39.7392,-104.9903,Python,Java,Entry,80000,2024-08-30,No
+J0561,Java Developer,IBM,Los Angeles,CA,34.0522,-118.2437,Java,"AWS, Azure",Entry,68000,2024-03-14,No
+J0562,Python Developer,StartupX,Boston,MA,42.3601,-71.0589,Python,"AWS, Java, Azure",Entry,89000,2024-08-01,Yes
+J0563,DevOps Engineer,Salesforce,Redmond,WA,47.673988,-122.121513,AWS,Other,Senior,152000,2024-05-10,Yes
+J0564,Product Analyst,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,"Machine Learning, Java",Senior,121000,2024-08-18,Yes
+J0565,Database Administrator,StartupX,Los Angeles,CA,34.0522,-118.2437,SQL,Azure,Mid,85000,2024-04-07,No
+J0566,Product Analyst,Salesforce,Raleigh,NC,35.7796,-78.6382,Other,SQL,Mid,86000,2024-01-21,No
+J0567,DevOps Engineer,RetailCorp,Dallas,TX,32.7767,-96.797,AWS,SQL,Entry,67000,2024-10-13,No
+J0568,Support Engineer,Meta,Austin,TX,30.2672,-97.7431,Other,SQL,Mid,81000,2024-06-04,No
+J0569,Data Engineer,DeepVision,Redmond,WA,47.673988,-122.121513,Python,"AWS, Machine Learning",Mid,109000,2024-03-01,No
+J0570,Software Engineer,DeepVision,Redmond,WA,47.673988,-122.121513,Java,"SQL, Azure",Entry,68000,2024-04-14,No
+J0571,SQL Developer,StartupX,Austin,TX,30.2672,-97.7431,SQL,"AWS, Python",Mid,101000,2024-05-24,Yes
+J0572,Software Engineer,StartupX,Raleigh,NC,35.7796,-78.6382,Java,"AWS, Python",Senior,146000,2024-07-02,Yes
+J0573,Data Analyst,Apple,Denver,CO,39.7392,-104.9903,Python,"AWS, Azure",Senior,149000,2024-09-11,No
+J0574,Cloud Engineer (AWS),RetailCorp,Los Angeles,CA,34.0522,-118.2437,AWS,Python,Entry,78000,2024-08-28,No
+J0575,QA Engineer,Apple,Austin,TX,30.2672,-97.7431,Other,Azure,Mid,90000,2024-07-30,No
+J0576,Automation Engineer,HealthAI,Redmond,WA,47.673988,-122.121513,Python,Azure,Entry,88000,2024-03-15,No
+J0577,Product Analyst,StartupX,Dallas,TX,32.7767,-96.797,Other,"AWS, Java, Machine Learning",Entry,63000,2024-10-23,No
+J0578,Back-end Engineer,IBM,New York,NY,40.7128,-74.006,Python,AWS,Mid,113000,2024-04-10,No
+J0579,SQL Developer,Salesforce,Dallas,TX,32.7767,-96.797,SQL,Other,Mid,98000,2024-05-05,No
+J0580,Automation Engineer,CloudLabs,Raleigh,NC,35.7796,-78.6382,Python,"SQL, AWS",Entry,83000,2024-06-21,No
+J0581,Azure DevOps Engineer,FintechCo,Raleigh,NC,35.7796,-78.6382,Azure,"SQL, Other",Mid,93000,2024-09-08,No
+J0582,DevOps Engineer,FintechCo,Austin,TX,30.2672,-97.7431,AWS,Other,Mid,107000,2024-03-27,No
+J0583,BI Developer,Microsoft,Denver,CO,39.7392,-104.9903,SQL,"AWS, Azure",Mid,102000,2024-01-31,No
+J0584,Frontend Developer,HealthAI,Seattle,WA,47.6062,-122.3321,Other,Python,Mid,91000,2024-01-25,No
+J0585,Support Engineer,Microsoft,Raleigh,NC,35.7796,-78.6382,Other,SQL,Senior,107000,2024-04-28,Yes
+J0586,Cloud Architect,Microsoft,Mountain View,CA,37.3861,-122.0839,Azure,"SQL, Machine Learning",Mid,109000,2024-04-21,Yes
+J0587,Support Engineer,Apple,Mountain View,CA,37.3861,-122.0839,Other,"SQL, Python, Java",Mid,95000,2024-09-04,No
+J0588,ML Ops Engineer,Google,Mountain View,CA,37.3861,-122.0839,Machine Learning,Azure,Entry,94000,2024-09-29,Yes
+J0589,Support Engineer,Google,Mountain View,CA,37.3861,-122.0839,Other,"Java, Azure",Mid,76000,2024-09-28,Yes
+J0590,Data Analyst,StartupX,San Francisco,CA,37.7749,-122.4194,Python,"AWS, Java, Other",Mid,117000,2024-01-09,No
+J0591,Site Reliability Engineer,RetailCorp,New York,NY,40.7128,-74.006,AWS,Python,Senior,157000,2024-02-24,No
+J0592,DevOps Engineer,Meta,Redmond,WA,47.673988,-122.121513,AWS,"Python, Java",Senior,115000,2024-09-26,No
+J0593,Product Analyst,IBM,Boston,MA,42.3601,-71.0589,Other,SQL,Senior,100000,2024-02-10,No
+J0594,Support Engineer,Netflix,Dallas,TX,32.7767,-96.797,Other,"AWS, Python, Azure",Entry,55000,2024-05-04,No
+J0595,DevOps Engineer,IBM,Raleigh,NC,35.7796,-78.6382,AWS,"Machine Learning, Other",Mid,107000,2024-02-11,No
+J0596,Python Developer,Amazon,Boston,MA,42.3601,-71.0589,Python,"Java, Other",Entry,81000,2024-07-13,No
+J0597,Cloud Architect,Netflix,Mountain View,CA,37.3861,-122.0839,Azure,"SQL, Java, Other",Entry,55000,2024-01-05,No
+J0598,QA Engineer,Amazon,Chicago,IL,41.8781,-87.6298,Other,"Python, Azure",Entry,59000,2024-08-10,Yes
+J0599,Data Analyst,DataWorks,Seattle,WA,47.6062,-122.3321,Python,Machine Learning,Senior,135000,2024-09-27,No
+J0600,Data Engineer,Meta,Los Angeles,CA,34.0522,-118.2437,Python,"AWS, Azure",Entry,71000,2024-10-17,Yes
+J0601,Data Analyst,Google,Seattle,WA,47.6062,-122.3321,SQL,"AWS, Python, Java",Entry,75000,2024-05-23,No
+J0602,Cloud Engineer (AWS),Microsoft,Austin,TX,30.2672,-97.7431,AWS,SQL,Mid,98000,2024-01-09,No
+J0603,QA Engineer,RetailCorp,Los Angeles,CA,34.0522,-118.2437,Other,Python,Entry,64000,2024-07-22,No
+J0604,Research Scientist,Microsoft,Dallas,TX,32.7767,-96.797,Machine Learning,"Python, Java",Entry,79000,2024-05-03,No
+J0605,Back-end Engineer,CloudLabs,Denver,CO,39.7392,-104.9903,Python,AWS,Mid,106000,2024-06-18,Yes
+J0606,Data Scientist,RetailCorp,Los Angeles,CA,34.0522,-118.2437,Machine Learning,"Python, Azure",Mid,117000,2024-02-10,No
+J0607,Backend Developer,Apple,Mountain View,CA,37.3861,-122.0839,Java,"SQL, Machine Learning",Mid,98000,2024-02-20,No
+J0608,Cloud Engineer (Azure),HealthAI,Seattle,WA,47.6062,-122.3321,Azure,"Python, Java",Mid,101000,2024-06-23,No
+J0609,BI Developer,RetailCorp,Austin,TX,30.2672,-97.7431,SQL,"AWS, Java",Entry,70000,2024-01-16,No
+J0610,Product Analyst,RetailCorp,Chicago,IL,41.8781,-87.6298,Other,Java,Mid,73000,2024-09-08,No
+J0611,Software Engineer,StartupX,Boston,MA,42.3601,-71.0589,Java,Azure,Entry,67000,2024-08-09,No
+J0612,Automation Engineer,CloudLabs,Boston,MA,42.3601,-71.0589,Python,"Machine Learning, Other",Mid,104000,2024-02-13,No
+J0613,Data Analyst,RetailCorp,Redmond,WA,47.673988,-122.121513,Python,Java,Entry,77000,2024-02-07,No
+J0614,Data Analyst,Microsoft,Boston,MA,42.3601,-71.0589,SQL,"AWS, Azure",Entry,76000,2024-03-19,No
+J0615,Site Reliability Engineer,Apple,Austin,TX,30.2672,-97.7431,AWS,,Entry,75000,2024-02-24,No
+J0616,Frontend Developer,IBM,Chicago,IL,41.8781,-87.6298,Other,"Python, Machine Learning",Senior,107000,2024-07-03,No
+J0617,Python Developer,Microsoft,Seattle,WA,47.6062,-122.3321,Python,SQL,Entry,80000,2024-04-05,No
+J0618,ML Ops Engineer,StartupX,Denver,CO,39.7392,-104.9903,Machine Learning,SQL,Entry,89000,2024-09-19,Yes
+J0619,Java Developer,Google,Seattle,WA,47.6062,-122.3321,Java,"Python, Machine Learning, Other",Mid,94000,2024-06-30,No
+J0620,Python Developer,DataWorks,Dallas,TX,32.7767,-96.797,Python,"AWS, Other",Entry,83000,2024-06-15,No
+J0621,Frontend Developer,IBM,Boston,MA,42.3601,-71.0589,Other,Machine Learning,Senior,125000,2024-07-17,No
+J0622,Cloud Architect,DeepVision,Denver,CO,39.7392,-104.9903,Azure,"AWS, Python, Java",Entry,72000,2024-05-04,Yes
+J0623,DevOps Engineer,CloudLabs,Boston,MA,42.3601,-71.0589,AWS,Python,Senior,122000,2024-03-27,No
+J0624,Data Analyst,IBM,San Francisco,CA,37.7749,-122.4194,Python,Other,Mid,110000,2024-09-09,No
+J0625,Frontend Developer,Microsoft,Boston,MA,42.3601,-71.0589,Other,"AWS, Azure",Entry,56000,2024-05-21,No
+J0626,Data Analyst,Netflix,Seattle,WA,47.6062,-122.3321,SQL,"Java, Machine Learning",Entry,73000,2024-07-03,No
+J0627,SQL Developer,FintechCo,Raleigh,NC,35.7796,-78.6382,SQL,"Machine Learning, Other",Mid,101000,2024-09-10,No
+J0628,QA Engineer,Netflix,Seattle,WA,47.6062,-122.3321,Other,"SQL, Java",Senior,100000,2024-03-10,No
+J0629,Python Developer,Salesforce,Austin,TX,30.2672,-97.7431,Python,Java,Entry,68000,2024-07-13,No
+J0630,Support Engineer,Apple,Boston,MA,42.3601,-71.0589,Other,Azure,Mid,83000,2024-10-31,No
+J0631,Data Analyst,Apple,Dallas,TX,32.7767,-96.797,SQL,"Java, Other",Senior,120000,2024-04-12,No
+J0632,Product Analyst,Microsoft,Boston,MA,42.3601,-71.0589,Other,"AWS, Python",Senior,117000,2024-06-12,No
+J0633,Back-end Engineer,DataWorks,Redmond,WA,47.673988,-122.121513,Python,"SQL, AWS",Entry,84000,2024-06-15,No
+J0634,Data Analyst,HealthAI,Boston,MA,42.3601,-71.0589,SQL,Java,Entry,72000,2024-07-05,No
+J0635,QA Engineer,DataWorks,Denver,CO,39.7392,-104.9903,Other,"Machine Learning, Azure",Senior,108000,2024-04-02,No
+J0636,Database Administrator,FintechCo,Chicago,IL,41.8781,-87.6298,SQL,Azure,Entry,74000,2024-04-17,No
+J0637,Data Analyst,HealthAI,Los Angeles,CA,34.0522,-118.2437,SQL,"AWS, Java",Entry,67000,2024-02-05,No
+J0638,ML Ops Engineer,Microsoft,Raleigh,NC,35.7796,-78.6382,Machine Learning,Java,Mid,130000,2024-06-04,No
+J0639,Azure DevOps Engineer,CloudLabs,New York,NY,40.7128,-74.006,Azure,"AWS, Other",Mid,100000,2024-08-04,No
+J0640,Frontend Developer,Netflix,Dallas,TX,32.7767,-96.797,Other,"AWS, Java",Entry,56000,2024-09-02,No
+J0641,Site Reliability Engineer,StartupX,Denver,CO,39.7392,-104.9903,AWS,"Python, Azure",Mid,104000,2024-08-02,Yes
+J0642,Cloud Engineer (AWS),RetailCorp,Austin,TX,30.2672,-97.7431,AWS,"SQL, Azure, Other",Mid,114000,2024-10-01,Yes
+J0643,Frontend Developer,Amazon,Redmond,WA,47.673988,-122.121513,Other,Python,Mid,86000,2024-06-30,No
+J0644,Database Administrator,DataWorks,Raleigh,NC,35.7796,-78.6382,SQL,"Machine Learning, Other",Entry,66000,2024-07-23,No
+J0645,BI Developer,Amazon,Mountain View,CA,37.3861,-122.0839,SQL,Azure,Entry,61000,2024-02-20,Yes
+J0646,Cloud Engineer (Azure),StartupX,Los Angeles,CA,34.0522,-118.2437,Azure,"AWS, Other",Entry,83000,2024-09-22,No
+J0647,QA Engineer,Netflix,Austin,TX,30.2672,-97.7431,Other,"Java, Azure",Senior,102000,2024-07-19,Yes
+J0648,Data Scientist,Apple,Mountain View,CA,37.3861,-122.0839,Machine Learning,,Entry,117000,2024-09-04,Yes
+J0649,Product Analyst,Salesforce,Seattle,WA,47.6062,-122.3321,Other,"SQL, Java, Azure",Entry,69000,2024-02-29,No
+J0650,Java Developer,Apple,San Francisco,CA,37.7749,-122.4194,Java,Azure,Entry,76000,2024-06-24,No
+J0651,Data Scientist,StartupX,Chicago,IL,41.8781,-87.6298,Machine Learning,Other,Senior,155000,2024-06-27,Yes
+J0652,Database Administrator,Netflix,Los Angeles,CA,34.0522,-118.2437,SQL,"Python, Other",Entry,77000,2024-08-19,No
+J0653,Java Developer,IBM,Mountain View,CA,37.3861,-122.0839,Java,Machine Learning,Senior,125000,2024-02-28,Yes
+J0654,Product Analyst,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,"SQL, Java, Azure",Senior,113000,2024-03-25,Yes
+J0655,DevOps Engineer,StartupX,New York,NY,40.7128,-74.006,AWS,Machine Learning,Entry,72000,2024-10-09,Yes
+J0656,Product Analyst,StartupX,Boston,MA,42.3601,-71.0589,Other,,Entry,58000,2024-08-24,Yes
+J0657,Support Engineer,CloudLabs,New York,NY,40.7128,-74.006,Other,"AWS, Azure",Senior,110000,2024-04-05,No
+J0658,BI Developer,Salesforce,Mountain View,CA,37.3861,-122.0839,SQL,Other,Entry,71000,2024-04-11,No
+J0659,Site Reliability Engineer,Salesforce,Mountain View,CA,37.3861,-122.0839,AWS,Azure,Entry,77000,2024-04-19,No
+J0660,Data Analyst,RetailCorp,Los Angeles,CA,34.0522,-118.2437,Python,"SQL, Other",Entry,81000,2024-02-02,No
+J0661,Java Developer,RetailCorp,Denver,CO,39.7392,-104.9903,Java,"AWS, Azure",Entry,81000,2024-04-05,Yes
+J0662,Data Analyst,Meta,Chicago,IL,41.8781,-87.6298,Python,Other,Senior,142000,2024-02-28,No
+J0663,Site Reliability Engineer,StartupX,Raleigh,NC,35.7796,-78.6382,AWS,"Python, Java, Azure",Mid,98000,2024-06-09,No
+J0664,Software Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Java,Other,Senior,116000,2024-10-27,Yes
+J0665,Data Analyst,Apple,Chicago,IL,41.8781,-87.6298,Python,"SQL, AWS, Machine Learning",Entry,89000,2024-03-29,No
+J0666,Cloud Architect,DeepVision,Dallas,TX,32.7767,-96.797,AWS,Machine Learning,Mid,108000,2024-10-29,No
+J0667,QA Engineer,Apple,Seattle,WA,47.6062,-122.3321,Other,,Entry,60000,2024-05-02,No
+J0668,Frontend Developer,Microsoft,Austin,TX,30.2672,-97.7431,Other,"Python, Java",Entry,66000,2024-03-13,No
+J0669,ML Ops Engineer,Salesforce,Dallas,TX,32.7767,-96.797,Machine Learning,Azure,Mid,141000,2024-03-11,No
+J0670,Site Reliability Engineer,Salesforce,New York,NY,40.7128,-74.006,AWS,"Other, Azure",Mid,105000,2024-09-06,No
+J0671,Automation Engineer,FintechCo,Raleigh,NC,35.7796,-78.6382,Python,"Java, Azure",Senior,114000,2024-03-29,No
+J0672,Data Scientist,Netflix,San Francisco,CA,37.7749,-122.4194,Machine Learning,Azure,Entry,92000,2024-03-12,Yes
+J0673,Product Analyst,HealthAI,Chicago,IL,41.8781,-87.6298,Other,Java,Senior,121000,2024-01-28,No
+J0674,Frontend Developer,Netflix,New York,NY,40.7128,-74.006,Other,Azure,Entry,57000,2024-04-09,No
+J0675,ML Ops Engineer,Salesforce,Raleigh,NC,35.7796,-78.6382,Machine Learning,SQL,Mid,137000,2024-09-08,Yes
+J0676,Site Reliability Engineer,Netflix,New York,NY,40.7128,-74.006,AWS,"Python, Machine Learning",Entry,84000,2024-02-12,No
+J0677,Python Developer,RetailCorp,Redmond,WA,47.673988,-122.121513,Python,SQL,Mid,102000,2024-05-29,No
+J0678,Research Scientist,Meta,Denver,CO,39.7392,-104.9903,Machine Learning,,Entry,89000,2024-05-27,No
+J0679,Back-end Engineer,DataWorks,Los Angeles,CA,34.0522,-118.2437,Python,"SQL, Java, Other",Mid,127000,2024-09-10,No
+J0680,Frontend Developer,DataWorks,Seattle,WA,47.6062,-122.3321,Other,"Java, Azure",Entry,54000,2024-05-17,Yes
+J0681,Software Engineer,StartupX,Mountain View,CA,37.3861,-122.0839,Java,"Machine Learning, Other",Entry,70000,2024-08-13,Yes
+J0682,Data Engineer,Salesforce,Seattle,WA,47.6062,-122.3321,Python,Machine Learning,Mid,128000,2024-05-06,No
+J0683,Python Developer,Netflix,San Francisco,CA,37.7749,-122.4194,Python,Other,Entry,69000,2024-06-27,No
+J0684,Support Engineer,HealthAI,Seattle,WA,47.6062,-122.3321,Other,AWS,Senior,108000,2024-05-01,Yes
+J0685,Cloud Architect,HealthAI,Los Angeles,CA,34.0522,-118.2437,AWS,,Senior,152000,2024-08-07,No
+J0686,SQL Developer,RetailCorp,Redmond,WA,47.673988,-122.121513,SQL,Java,Mid,90000,2024-04-15,No
+J0687,Product Analyst,StartupX,San Francisco,CA,37.7749,-122.4194,Other,Python,Entry,62000,2024-10-02,No
+J0688,Cloud Architect,FintechCo,San Francisco,CA,37.7749,-122.4194,AWS,"SQL, Java",Entry,83000,2024-05-28,No
+J0689,Product Analyst,HealthAI,Denver,CO,39.7392,-104.9903,Other,Azure,Entry,69000,2024-02-18,No
+J0690,Software Engineer,DeepVision,Mountain View,CA,37.3861,-122.0839,Java,"Machine Learning, Azure",Mid,108000,2024-05-21,Yes
+J0691,SQL Developer,FintechCo,New York,NY,40.7128,-74.006,SQL,Azure,Senior,132000,2024-05-07,No
+J0692,Data Analyst,HealthAI,Redmond,WA,47.673988,-122.121513,SQL,"AWS, Machine Learning",Entry,76000,2024-07-20,Yes
+J0693,DevOps Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,AWS,"Python, Machine Learning",Senior,143000,2024-05-17,Yes
+J0694,Azure DevOps Engineer,Salesforce,Chicago,IL,41.8781,-87.6298,Azure,"Java, Other",Entry,69000,2024-02-08,No
+J0695,Machine Learning Engineer,Salesforce,Denver,CO,39.7392,-104.9903,Machine Learning,SQL,Entry,109000,2024-05-22,Yes
+J0696,Data Analyst,Netflix,Chicago,IL,41.8781,-87.6298,SQL,"AWS, Python, Other",Entry,66000,2024-06-16,No
+J0697,Frontend Developer,HealthAI,Los Angeles,CA,34.0522,-118.2437,Other,"SQL, Machine Learning",Entry,65000,2024-02-17,No
+J0698,BI Developer,CloudLabs,Raleigh,NC,35.7796,-78.6382,SQL,Python,Mid,98000,2024-07-02,No
+J0699,Cloud Architect,Salesforce,Redmond,WA,47.673988,-122.121513,Azure,Machine Learning,Senior,138000,2024-08-07,Yes
+J0700,Azure DevOps Engineer,IBM,Austin,TX,30.2672,-97.7431,Azure,Java,Mid,100000,2024-05-25,No
+J0701,SQL Developer,DataWorks,Chicago,IL,41.8781,-87.6298,SQL,"Python, Java",Mid,86000,2024-06-24,No
+J0702,Python Developer,Google,Seattle,WA,47.6062,-122.3321,Python,Other,Entry,78000,2024-08-23,No
+J0703,Frontend Developer,DeepVision,New York,NY,40.7128,-74.006,Other,"SQL, AWS",Senior,127000,2024-08-13,No
+J0704,Frontend Developer,Salesforce,Redmond,WA,47.673988,-122.121513,Other,"AWS, Java",Entry,65000,2024-03-08,Yes
+J0705,Data Analyst,Microsoft,San Francisco,CA,37.7749,-122.4194,Python,"AWS, Java",Entry,80000,2024-02-17,No
+J0706,Azure DevOps Engineer,IBM,Seattle,WA,47.6062,-122.3321,Azure,"AWS, Machine Learning",Entry,66000,2024-07-09,Yes
+J0707,QA Engineer,Google,Boston,MA,42.3601,-71.0589,Other,"Machine Learning, Java, Azure",Senior,114000,2024-06-05,No
+J0708,SQL Developer,Salesforce,Raleigh,NC,35.7796,-78.6382,SQL,"Java, Other",Senior,139000,2024-02-16,Yes
+J0709,Python Developer,Google,Redmond,WA,47.673988,-122.121513,Python,Other,Mid,97000,2024-09-01,No
+J0710,Data Engineer,DataWorks,Redmond,WA,47.673988,-122.121513,Python,"SQL, Java, Other",Mid,108000,2024-09-22,No
+J0711,Site Reliability Engineer,Google,Mountain View,CA,37.3861,-122.0839,AWS,Python,Entry,83000,2024-06-24,No
+J0712,Back-end Engineer,FintechCo,New York,NY,40.7128,-74.006,Python,Azure,Senior,137000,2024-09-01,No
+J0713,Data Scientist,Salesforce,Seattle,WA,47.6062,-122.3321,Machine Learning,Java,Entry,95000,2024-02-22,No
+J0714,Cloud Architect,Apple,San Francisco,CA,37.7749,-122.4194,AWS,Machine Learning,Entry,69000,2024-03-11,Yes
+J0715,QA Engineer,CloudLabs,Raleigh,NC,35.7796,-78.6382,Other,Java,Mid,82000,2024-03-14,No
+J0716,Database Administrator,DataWorks,Raleigh,NC,35.7796,-78.6382,SQL,,Mid,95000,2024-03-25,No
+J0717,Product Analyst,FintechCo,Redmond,WA,47.673988,-122.121513,Other,AWS,Senior,104000,2024-03-18,No
+J0718,Automation Engineer,CloudLabs,Chicago,IL,41.8781,-87.6298,Python,AWS,Mid,103000,2024-04-21,No
+J0719,Machine Learning Engineer,Microsoft,Seattle,WA,47.6062,-122.3321,Machine Learning,"Python, Java",Mid,134000,2024-10-28,No
+J0720,Support Engineer,Apple,Boston,MA,42.3601,-71.0589,Other,Machine Learning,Mid,88000,2024-06-10,No
+J0721,Java Developer,IBM,Raleigh,NC,35.7796,-78.6382,Java,Machine Learning,Mid,99000,2024-02-13,No
+J0722,Automation Engineer,DataWorks,Dallas,TX,32.7767,-96.797,Python,"SQL, Java, Machine Learning",Senior,135000,2024-05-25,Yes
+J0723,Frontend Developer,HealthAI,Raleigh,NC,35.7796,-78.6382,Other,AWS,Mid,85000,2024-06-03,Yes
+J0724,SQL Developer,FintechCo,Boston,MA,42.3601,-71.0589,SQL,"AWS, Machine Learning, Other",Senior,108000,2024-05-31,No
+J0725,Database Administrator,RetailCorp,Redmond,WA,47.673988,-122.121513,SQL,Java,Entry,67000,2024-09-10,No
+J0726,Cloud Engineer (AWS),Meta,Chicago,IL,41.8781,-87.6298,AWS,Azure,Mid,100000,2024-10-31,Yes
+J0727,Frontend Developer,Apple,Austin,TX,30.2672,-97.7431,Other,"Java, Machine Learning",Mid,83000,2024-03-08,No
+J0728,BI Developer,Apple,Denver,CO,39.7392,-104.9903,SQL,Python,Senior,135000,2024-03-29,No
+J0729,Machine Learning Engineer,Google,Dallas,TX,32.7767,-96.797,Machine Learning,Python,Entry,93000,2024-02-04,Yes
+J0730,Product Analyst,Meta,Mountain View,CA,37.3861,-122.0839,Other,"AWS, Azure",Senior,114000,2024-01-31,Yes
+J0731,Cloud Architect,CloudLabs,Los Angeles,CA,34.0522,-118.2437,AWS,"Python, Machine Learning",Mid,117000,2024-09-13,Yes
+J0732,Site Reliability Engineer,FintechCo,Boston,MA,42.3601,-71.0589,AWS,Python,Mid,103000,2024-02-12,Yes
+J0733,Backend Developer,StartupX,Dallas,TX,32.7767,-96.797,Java,"Python, Azure",Entry,75000,2024-03-19,Yes
+J0734,Python Developer,IBM,Seattle,WA,47.6062,-122.3321,Python,,Mid,94000,2024-09-18,No
+J0735,Cloud Engineer (Azure),StartupX,Austin,TX,30.2672,-97.7431,Azure,"AWS, Python",Mid,106000,2024-07-19,No
+J0736,Python Developer,IBM,Los Angeles,CA,34.0522,-118.2437,Python,"AWS, Java",Entry,76000,2024-08-11,No
+J0737,SQL Developer,Google,Redmond,WA,47.673988,-122.121513,SQL,Python,Entry,63000,2024-02-14,No
+J0738,Database Administrator,Netflix,Dallas,TX,32.7767,-96.797,SQL,AWS,Mid,88000,2024-01-29,No
+J0739,Cloud Architect,FintechCo,Raleigh,NC,35.7796,-78.6382,Azure,Other,Senior,120000,2024-03-30,Yes
+J0740,Machine Learning Engineer,FintechCo,New York,NY,40.7128,-74.006,Machine Learning,Other,Entry,101000,2024-01-06,Yes
+J0741,Back-end Engineer,Apple,Denver,CO,39.7392,-104.9903,Python,Other,Mid,124000,2024-09-21,No
+J0742,Data Analyst,Microsoft,Austin,TX,30.2672,-97.7431,Python,"AWS, Azure",Mid,114000,2024-03-05,Yes
+J0743,Data Analyst,FintechCo,Seattle,WA,47.6062,-122.3321,SQL,"Azure, Other",Entry,61000,2024-01-16,No
+J0744,Back-end Engineer,IBM,Denver,CO,39.7392,-104.9903,Python,Java,Mid,118000,2024-02-02,No
+J0745,Cloud Engineer (AWS),Netflix,Chicago,IL,41.8781,-87.6298,AWS,Java,Mid,107000,2024-09-18,No
+J0746,Machine Learning Engineer,Netflix,Dallas,TX,32.7767,-96.797,Machine Learning,Other,Mid,118000,2024-03-26,No
+J0747,Data Engineer,IBM,Seattle,WA,47.6062,-122.3321,Python,"SQL, AWS, Other",Entry,81000,2024-10-20,Yes
+J0748,Backend Developer,Amazon,Redmond,WA,47.673988,-122.121513,Java,Azure,Entry,79000,2024-09-17,No
+J0749,Database Administrator,HealthAI,Mountain View,CA,37.3861,-122.0839,SQL,Machine Learning,Entry,70000,2024-05-05,No
+J0750,Support Engineer,Apple,Boston,MA,42.3601,-71.0589,Other,Machine Learning,Mid,80000,2024-03-17,Yes
+J0751,Python Developer,StartupX,Los Angeles,CA,34.0522,-118.2437,Python,Machine Learning,Mid,103000,2024-08-02,Yes
+J0752,Data Analyst,Meta,Boston,MA,42.3601,-71.0589,Python,"SQL, Other",Senior,144000,2024-06-12,No
+J0753,Frontend Developer,DataWorks,Austin,TX,30.2672,-97.7431,Other,"AWS, Java",Senior,118000,2024-03-02,No
+J0754,Frontend Developer,Microsoft,Redmond,WA,47.673988,-122.121513,Other,SQL,Mid,97000,2024-09-21,No
+J0755,BI Developer,Amazon,Chicago,IL,41.8781,-87.6298,SQL,"Java, Other",Mid,92000,2024-05-24,No
+J0756,Product Analyst,Amazon,Denver,CO,39.7392,-104.9903,Other,Machine Learning,Mid,88000,2024-08-21,No
+J0757,Research Scientist,Meta,San Francisco,CA,37.7749,-122.4194,Machine Learning,"Python, Other",Entry,87000,2024-10-15,Yes
+J0758,QA Engineer,Netflix,Austin,TX,30.2672,-97.7431,Other,Machine Learning,Entry,45000,2024-10-29,Yes
+J0759,SQL Developer,FintechCo,Denver,CO,39.7392,-104.9903,SQL,Java,Entry,63000,2024-05-05,No
+J0760,Frontend Developer,DeepVision,Boston,MA,42.3601,-71.0589,Other,Python,Entry,60000,2024-01-13,No
+J0761,Data Analyst,CloudLabs,Los Angeles,CA,34.0522,-118.2437,SQL,AWS,Mid,92000,2024-01-05,Yes
+J0762,Frontend Developer,RetailCorp,Raleigh,NC,35.7796,-78.6382,Other,"SQL, Python, Machine Learning",Entry,60000,2024-07-11,No
+J0763,Cloud Architect,Amazon,Redmond,WA,47.673988,-122.121513,AWS,Machine Learning,Entry,74000,2024-09-28,No
+J0764,Support Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Other,"AWS, Machine Learning, Azure",Mid,83000,2024-03-13,No
+J0765,Product Analyst,Amazon,Mountain View,CA,37.3861,-122.0839,Other,"Java, Machine Learning",Entry,63000,2024-04-28,No
+J0766,Back-end Engineer,FintechCo,Austin,TX,30.2672,-97.7431,Python,"SQL, Azure",Entry,87000,2024-08-22,No
+J0767,Cloud Engineer (AWS),DataWorks,Seattle,WA,47.6062,-122.3321,AWS,Azure,Entry,70000,2024-09-15,No
+J0768,Support Engineer,Amazon,Dallas,TX,32.7767,-96.797,Other,Python,Mid,92000,2024-10-17,No
+J0769,Software Engineer,CloudLabs,New York,NY,40.7128,-74.006,Java,AWS,Mid,107000,2024-05-01,No
+J0770,Software Engineer,HealthAI,Austin,TX,30.2672,-97.7431,Java,"Azure, Other",Mid,94000,2024-07-20,No
+J0771,Product Analyst,Apple,Chicago,IL,41.8781,-87.6298,Other,Java,Senior,110000,2024-05-19,Yes
+J0772,Cloud Engineer (AWS),Meta,New York,NY,40.7128,-74.006,AWS,,Mid,78000,2024-10-26,No
+J0773,QA Engineer,Amazon,New York,NY,40.7128,-74.006,Other,Azure,Entry,64000,2024-08-18,Yes
+J0774,Product Analyst,Salesforce,Seattle,WA,47.6062,-122.3321,Other,"AWS, Machine Learning",Senior,94000,2024-10-01,No
+J0775,Data Scientist,Netflix,San Francisco,CA,37.7749,-122.4194,Machine Learning,Java,Senior,190000,2024-08-25,Yes
+J0776,Cloud Engineer (AWS),Amazon,New York,NY,40.7128,-74.006,AWS,"Machine Learning, Other",Mid,96000,2024-06-04,No
+J0777,Frontend Developer,Meta,Austin,TX,30.2672,-97.7431,Other,,Mid,84000,2024-03-16,No
+J0778,SQL Developer,Apple,Boston,MA,42.3601,-71.0589,SQL,Java,Mid,102000,2024-09-19,No
+J0779,Backend Developer,IBM,San Francisco,CA,37.7749,-122.4194,Java,,Mid,111000,2024-03-30,No
+J0780,Azure DevOps Engineer,HealthAI,Chicago,IL,41.8781,-87.6298,Azure,"Python, Machine Learning, Other",Mid,92000,2024-10-11,No
+J0781,QA Engineer,Amazon,Chicago,IL,41.8781,-87.6298,Other,Python,Entry,65000,2024-02-22,No
+J0782,Cloud Engineer (AWS),Google,Mountain View,CA,37.3861,-122.0839,AWS,Azure,Mid,114000,2024-04-23,Yes
+J0783,SQL Developer,HealthAI,Boston,MA,42.3601,-71.0589,SQL,"AWS, Java, Other",Mid,81000,2024-07-09,No
+J0784,Python Developer,DataWorks,Dallas,TX,32.7767,-96.797,Python,Other,Entry,80000,2024-05-12,No
+J0785,Cloud Engineer (AWS),Amazon,Redmond,WA,47.673988,-122.121513,AWS,,Entry,75000,2024-08-15,Yes
+J0786,Machine Learning Engineer,DeepVision,Austin,TX,30.2672,-97.7431,Machine Learning,Azure,Mid,128000,2024-03-03,No
+J0787,Software Engineer,Google,New York,NY,40.7128,-74.006,Java,"Machine Learning, Azure",Entry,72000,2024-10-20,No
+J0788,Back-end Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Python,Machine Learning,Senior,148000,2024-07-14,No
+J0789,ML Ops Engineer,Microsoft,Austin,TX,30.2672,-97.7431,Machine Learning,Python,Entry,91000,2024-04-19,No
+J0790,Data Analyst,IBM,Chicago,IL,41.8781,-87.6298,SQL,Machine Learning,Senior,122000,2024-03-17,No
+J0791,QA Engineer,CloudLabs,San Francisco,CA,37.7749,-122.4194,Other,Java,Mid,90000,2024-09-12,Yes
+J0792,ML Ops Engineer,Google,Seattle,WA,47.6062,-122.3321,Machine Learning,"SQL, Python",Senior,167000,2024-05-23,Yes
+J0793,SQL Developer,Salesforce,Redmond,WA,47.673988,-122.121513,SQL,Python,Mid,98000,2024-09-26,Yes
+J0794,Automation Engineer,RetailCorp,Mountain View,CA,37.3861,-122.0839,Python,"Azure, Java, Other",Senior,132000,2024-07-14,No
+J0795,Cloud Architect,Netflix,Denver,CO,39.7392,-104.9903,AWS,"SQL, Machine Learning",Entry,71000,2024-09-05,Yes
+J0796,Product Analyst,Salesforce,San Francisco,CA,37.7749,-122.4194,Other,Azure,Senior,128000,2024-04-02,Yes
+J0797,Data Analyst,DataWorks,Redmond,WA,47.673988,-122.121513,SQL,Azure,Entry,69000,2024-01-16,No
+J0798,Database Administrator,RetailCorp,Chicago,IL,41.8781,-87.6298,SQL,Machine Learning,Entry,59000,2024-09-28,Yes
+J0799,Backend Developer,Meta,New York,NY,40.7128,-74.006,Java,,Mid,94000,2024-02-21,Yes
+J0800,SQL Developer,IBM,Denver,CO,39.7392,-104.9903,SQL,AWS,Mid,93000,2024-01-29,No
+J0801,Support Engineer,Apple,New York,NY,40.7128,-74.006,Other,,Entry,57000,2024-03-31,No
+J0802,Cloud Architect,RetailCorp,Los Angeles,CA,34.0522,-118.2437,AWS,"SQL, Azure, Other",Mid,101000,2024-07-02,No
+J0803,Machine Learning Engineer,FintechCo,Los Angeles,CA,34.0522,-118.2437,Machine Learning,Azure,Entry,101000,2024-06-29,No
+J0804,SQL Developer,DataWorks,Redmond,WA,47.673988,-122.121513,SQL,"Python, Other",Senior,117000,2024-09-09,No
+J0805,Data Analyst,Microsoft,Chicago,IL,41.8781,-87.6298,SQL,AWS,Entry,75000,2024-01-20,No
+J0806,Machine Learning Engineer,Meta,Dallas,TX,32.7767,-96.797,Machine Learning,Python,Senior,175000,2024-04-22,No
+J0807,Automation Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Python,"Machine Learning, Java, Azure",Senior,125000,2024-06-18,No
+J0808,SQL Developer,RetailCorp,New York,NY,40.7128,-74.006,SQL,"Machine Learning, Other",Entry,75000,2024-06-23,Yes
+J0809,Data Engineer,DeepVision,Austin,TX,30.2672,-97.7431,Python,Azure,Entry,78000,2024-01-31,Yes
+J0810,DevOps Engineer,DataWorks,Los Angeles,CA,34.0522,-118.2437,AWS,SQL,Entry,67000,2024-03-13,No
+J0811,Data Analyst,Amazon,Austin,TX,30.2672,-97.7431,SQL,"Machine Learning, Other",Entry,64000,2024-07-21,No
+J0812,Frontend Developer,Apple,San Francisco,CA,37.7749,-122.4194,Other,,Mid,85000,2024-06-14,Yes
+J0813,QA Engineer,FintechCo,Boston,MA,42.3601,-71.0589,Other,"SQL, Python",Entry,60000,2024-09-06,Yes
+J0814,Data Analyst,Microsoft,Los Angeles,CA,34.0522,-118.2437,Python,"SQL, AWS, Java",Mid,110000,2024-10-14,Yes
+J0815,Backend Developer,RetailCorp,Austin,TX,30.2672,-97.7431,Java,"SQL, AWS, Machine Learning",Entry,65000,2024-04-24,Yes
+J0816,Backend Developer,HealthAI,New York,NY,40.7128,-74.006,Java,Azure,Entry,71000,2024-07-12,No
+J0817,Product Analyst,Microsoft,New York,NY,40.7128,-74.006,Other,"AWS, Java",Entry,61000,2024-01-01,Yes
+J0818,ML Ops Engineer,HealthAI,Dallas,TX,32.7767,-96.797,Machine Learning,Python,Mid,116000,2024-01-17,No
+J0819,Product Analyst,DeepVision,Dallas,TX,32.7767,-96.797,Other,"Machine Learning, Python, Java",Entry,62000,2024-04-23,No
+J0820,Machine Learning Engineer,DeepVision,Chicago,IL,41.8781,-87.6298,Machine Learning,Python,Mid,116000,2024-03-13,No
+J0821,Frontend Developer,Meta,Austin,TX,30.2672,-97.7431,Other,Machine Learning,Senior,117000,2024-06-12,No
+J0822,Frontend Developer,HealthAI,Los Angeles,CA,34.0522,-118.2437,Other,"AWS, Python",Mid,93000,2024-06-20,Yes
+J0823,Cloud Engineer (AWS),IBM,Redmond,WA,47.673988,-122.121513,AWS,"Python, Other",Mid,115000,2024-05-07,No
+J0824,Python Developer,Apple,San Francisco,CA,37.7749,-122.4194,Python,"SQL, Azure",Entry,88000,2024-02-25,Yes
+J0825,Frontend Developer,Google,Boston,MA,42.3601,-71.0589,Other,"SQL, Machine Learning, Azure",Mid,76000,2024-08-12,No
+J0826,Software Engineer,Microsoft,Boston,MA,42.3601,-71.0589,Java,"SQL, Other",Mid,100000,2024-09-09,No
+J0827,Data Analyst,StartupX,Boston,MA,42.3601,-71.0589,Python,"AWS, Other",Entry,87000,2024-02-21,Yes
+J0828,QA Engineer,Microsoft,Chicago,IL,41.8781,-87.6298,Other,Machine Learning,Senior,105000,2024-02-07,No
+J0829,Software Engineer,Google,Austin,TX,30.2672,-97.7431,Java,AWS,Mid,99000,2024-05-13,No
+J0830,Cloud Engineer (Azure),Apple,New York,NY,40.7128,-74.006,Azure,AWS,Mid,98000,2024-07-11,No
+J0831,Machine Learning Engineer,StartupX,Seattle,WA,47.6062,-122.3321,Machine Learning,"Java, Azure",Entry,96000,2024-06-22,No
+J0832,Support Engineer,FintechCo,Mountain View,CA,37.3861,-122.0839,Other,"AWS, Java, Machine Learning",Entry,65000,2024-08-08,Yes
+J0833,Data Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Python,AWS,Senior,159000,2024-03-21,No
+J0834,Machine Learning Engineer,Apple,Redmond,WA,47.673988,-122.121513,Machine Learning,"SQL, Other",Senior,153000,2024-04-07,Yes
+J0835,Backend Developer,StartupX,Los Angeles,CA,34.0522,-118.2437,Java,"AWS, Other",Entry,66000,2024-10-03,Yes
+J0836,Cloud Architect,IBM,Redmond,WA,47.673988,-122.121513,AWS,Machine Learning,Senior,129000,2024-02-19,No
+J0837,BI Developer,DataWorks,Denver,CO,39.7392,-104.9903,SQL,Java,Mid,85000,2024-09-08,No
+J0838,Python Developer,Apple,Mountain View,CA,37.3861,-122.0839,Python,Java,Entry,77000,2024-08-06,Yes
+J0839,Azure DevOps Engineer,HealthAI,Raleigh,NC,35.7796,-78.6382,Azure,AWS,Entry,66000,2024-09-02,No
+J0840,Cloud Engineer (Azure),Google,Redmond,WA,47.673988,-122.121513,Azure,"SQL, AWS",Entry,61000,2024-03-28,Yes
+J0841,Cloud Architect,Amazon,Chicago,IL,41.8781,-87.6298,AWS,Java,Entry,81000,2024-02-29,Yes
+J0842,Software Engineer,Netflix,Chicago,IL,41.8781,-87.6298,Java,Python,Entry,84000,2024-05-15,No
+J0843,ML Ops Engineer,Microsoft,Austin,TX,30.2672,-97.7431,Machine Learning,"AWS, Python",Senior,186000,2024-07-14,No
+J0844,QA Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Other,"AWS, Python",Mid,88000,2024-05-14,Yes
+J0845,BI Developer,IBM,Redmond,WA,47.673988,-122.121513,SQL,"Java, Azure",Entry,71000,2024-05-17,Yes
+J0846,Frontend Developer,Microsoft,Los Angeles,CA,34.0522,-118.2437,Other,,Entry,52000,2024-02-19,Yes
+J0847,Research Scientist,RetailCorp,Denver,CO,39.7392,-104.9903,Machine Learning,"Python, Other",Entry,88000,2024-07-30,No
+J0848,QA Engineer,StartupX,Mountain View,CA,37.3861,-122.0839,Other,"SQL, Python, Machine Learning",Entry,54000,2024-07-17,Yes
+J0849,Back-end Engineer,StartupX,Raleigh,NC,35.7796,-78.6382,Python,"SQL, Other",Senior,169000,2024-08-31,No
+J0850,Data Engineer,Netflix,San Francisco,CA,37.7749,-122.4194,Python,"Java, Other",Mid,97000,2024-02-10,Yes
+J0851,Backend Developer,Google,Denver,CO,39.7392,-104.9903,Java,"Python, Machine Learning",Entry,62000,2024-10-19,No
+J0852,Cloud Architect,CloudLabs,Dallas,TX,32.7767,-96.797,Azure,Other,Senior,117000,2024-03-16,No
+J0853,Software Engineer,Microsoft,New York,NY,40.7128,-74.006,Java,Other,Senior,140000,2024-04-18,Yes
+J0854,Data Engineer,Google,Boston,MA,42.3601,-71.0589,Python,"Java, Other",Entry,75000,2024-02-10,No
+J0855,Azure DevOps Engineer,Meta,Raleigh,NC,35.7796,-78.6382,Azure,"SQL, AWS",Mid,98000,2024-03-16,Yes
+J0856,Data Analyst,Apple,Los Angeles,CA,34.0522,-118.2437,SQL,Azure,Mid,84000,2024-02-04,No
+J0857,BI Developer,StartupX,Boston,MA,42.3601,-71.0589,SQL,"Machine Learning, Other",Entry,69000,2024-10-09,No
+J0858,Product Analyst,StartupX,Chicago,IL,41.8781,-87.6298,Other,"AWS, Python, Azure",Senior,111000,2024-01-07,No
+J0859,Automation Engineer,DataWorks,Denver,CO,39.7392,-104.9903,Python,AWS,Senior,140000,2024-08-02,Yes
+J0860,BI Developer,Microsoft,New York,NY,40.7128,-74.006,SQL,"Python, Other",Senior,128000,2024-10-17,No
+J0861,Frontend Developer,DeepVision,Seattle,WA,47.6062,-122.3321,Other,SQL,Senior,114000,2024-10-15,No
+J0862,Azure DevOps Engineer,HealthAI,Denver,CO,39.7392,-104.9903,Azure,Python,Entry,69000,2024-06-25,No
+J0863,Research Scientist,Salesforce,Raleigh,NC,35.7796,-78.6382,Machine Learning,"Java, Azure",Entry,101000,2024-09-05,No
+J0864,Automation Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Python,"Azure, Other",Mid,105000,2024-03-29,No
+J0865,Support Engineer,Microsoft,Dallas,TX,32.7767,-96.797,Other,Java,Entry,64000,2024-07-24,No
+J0866,Support Engineer,DeepVision,Austin,TX,30.2672,-97.7431,Other,Machine Learning,Mid,89000,2024-05-01,No
+J0867,Backend Developer,Netflix,San Francisco,CA,37.7749,-122.4194,Java,Other,Entry,72000,2024-07-09,Yes
+J0868,Product Analyst,HealthAI,San Francisco,CA,37.7749,-122.4194,Other,SQL,Mid,85000,2024-06-08,No
+J0869,ML Ops Engineer,HealthAI,Los Angeles,CA,34.0522,-118.2437,Machine Learning,AWS,Mid,143000,2024-02-20,No
+J0870,Data Engineer,IBM,Los Angeles,CA,34.0522,-118.2437,Python,"Java, Other",Senior,141000,2024-08-14,No
+J0871,Data Analyst,FintechCo,Boston,MA,42.3601,-71.0589,Python,Azure,Entry,81000,2024-02-15,No
+J0872,Back-end Engineer,Meta,Boston,MA,42.3601,-71.0589,Python,"SQL, Machine Learning, Other",Senior,131000,2024-09-05,Yes
+J0873,Azure DevOps Engineer,HealthAI,Mountain View,CA,37.3861,-122.0839,Azure,,Mid,98000,2024-09-20,No
+J0874,Database Administrator,IBM,Los Angeles,CA,34.0522,-118.2437,SQL,"Machine Learning, Other",Entry,70000,2024-09-16,No
+J0875,Data Engineer,RetailCorp,Denver,CO,39.7392,-104.9903,Python,Java,Entry,76000,2024-10-18,No
+J0876,Data Engineer,Meta,Redmond,WA,47.673988,-122.121513,Python,SQL,Entry,79000,2024-01-30,Yes
+J0877,Java Developer,Netflix,Mountain View,CA,37.3861,-122.0839,Java,"AWS, Azure",Mid,87000,2024-07-03,No
+J0878,QA Engineer,IBM,Austin,TX,30.2672,-97.7431,Other,"SQL, AWS, Python",Mid,73000,2024-08-25,Yes
+J0879,Support Engineer,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,Python,Mid,79000,2024-01-16,No
+J0880,Product Analyst,Netflix,Dallas,TX,32.7767,-96.797,Other,Python,Entry,67000,2024-08-16,No
+J0881,Site Reliability Engineer,DataWorks,Denver,CO,39.7392,-104.9903,AWS,Azure,Senior,138000,2024-06-28,No
+J0882,Data Engineer,HealthAI,San Francisco,CA,37.7749,-122.4194,Python,Azure,Entry,73000,2024-02-16,No
+J0883,Frontend Developer,Salesforce,Mountain View,CA,37.3861,-122.0839,Other,"SQL, AWS",Mid,85000,2024-03-24,No
+J0884,Cloud Engineer (Azure),HealthAI,Redmond,WA,47.673988,-122.121513,Azure,"Machine Learning, Other",Entry,65000,2024-04-25,No
+J0885,SQL Developer,IBM,Raleigh,NC,35.7796,-78.6382,SQL,"Python, Java",Entry,75000,2024-07-28,No
+J0886,Frontend Developer,HealthAI,Raleigh,NC,35.7796,-78.6382,Other,SQL,Senior,107000,2024-01-05,No
+J0887,Data Engineer,CloudLabs,New York,NY,40.7128,-74.006,Python,Azure,Mid,116000,2024-01-05,Yes
+J0888,Research Scientist,DataWorks,San Francisco,CA,37.7749,-122.4194,Machine Learning,SQL,Senior,144000,2024-05-20,Yes
+J0889,Azure DevOps Engineer,HealthAI,Austin,TX,30.2672,-97.7431,Azure,"AWS, Machine Learning",Entry,74000,2024-08-23,Yes
+J0890,SQL Developer,Netflix,San Francisco,CA,37.7749,-122.4194,SQL,"AWS, Other",Entry,65000,2024-09-23,No
+J0891,Back-end Engineer,DataWorks,Seattle,WA,47.6062,-122.3321,Python,"AWS, Machine Learning, Azure",Entry,74000,2024-01-04,No
+J0892,Data Analyst,StartupX,Raleigh,NC,35.7796,-78.6382,SQL,"Azure, Other",Entry,57000,2024-10-31,No
+J0893,Data Analyst,IBM,Raleigh,NC,35.7796,-78.6382,SQL,"AWS, Azure",Entry,71000,2024-02-25,No
+J0894,Python Developer,Apple,San Francisco,CA,37.7749,-122.4194,Python,"SQL, AWS",Entry,76000,2024-06-15,Yes
+J0895,Product Analyst,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Other,Machine Learning,Mid,89000,2024-06-01,No
+J0896,Data Scientist,StartupX,Redmond,WA,47.673988,-122.121513,Machine Learning,Python,Entry,91000,2024-01-30,No
+J0897,Support Engineer,CloudLabs,Austin,TX,30.2672,-97.7431,Other,Machine Learning,Senior,109000,2024-03-12,No
+J0898,Frontend Developer,CloudLabs,Chicago,IL,41.8781,-87.6298,Other,AWS,Senior,112000,2024-05-31,No
+J0899,BI Developer,Salesforce,Boston,MA,42.3601,-71.0589,SQL,"Python, Machine Learning",Mid,99000,2024-01-19,Yes
+J0900,Data Scientist,Apple,Los Angeles,CA,34.0522,-118.2437,Machine Learning,"SQL, Java, Azure",Entry,101000,2024-04-23,Yes
+J0901,Support Engineer,DeepVision,Raleigh,NC,35.7796,-78.6382,Other,"AWS, Python",Entry,66000,2024-07-02,No
+J0902,Research Scientist,HealthAI,New York,NY,40.7128,-74.006,Machine Learning,Other,Senior,183000,2024-10-12,No
+J0903,Cloud Architect,Amazon,Chicago,IL,41.8781,-87.6298,AWS,"SQL, Python, Java",Mid,110000,2024-03-06,No
+J0904,Product Analyst,FintechCo,Denver,CO,39.7392,-104.9903,Other,"SQL, AWS",Senior,122000,2024-04-03,Yes
+J0905,Data Analyst,CloudLabs,Seattle,WA,47.6062,-122.3321,SQL,Other,Entry,61000,2024-04-23,No
+J0906,QA Engineer,FintechCo,San Francisco,CA,37.7749,-122.4194,Other,Python,Entry,68000,2024-08-03,Yes
+J0907,Data Analyst,IBM,Dallas,TX,32.7767,-96.797,SQL,"Python, Other",Entry,75000,2024-05-30,No
+J0908,Cloud Engineer (Azure),Netflix,Mountain View,CA,37.3861,-122.0839,Azure,"SQL, AWS",Entry,80000,2024-10-25,Yes
+J0909,Automation Engineer,Amazon,Chicago,IL,41.8781,-87.6298,Python,"SQL, Other, Azure",Senior,158000,2024-04-09,No
+J0910,Python Developer,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,"AWS, Java, Azure",Mid,100000,2024-07-14,Yes
+J0911,Research Scientist,Salesforce,Mountain View,CA,37.3861,-122.0839,Machine Learning,Python,Entry,82000,2024-03-18,Yes
+J0912,Data Scientist,Apple,Boston,MA,42.3601,-71.0589,Machine Learning,Python,Entry,95000,2024-10-18,No
+J0913,Data Engineer,Apple,Los Angeles,CA,34.0522,-118.2437,Python,Java,Senior,151000,2024-04-02,No
+J0914,BI Developer,Apple,Raleigh,NC,35.7796,-78.6382,SQL,Python,Entry,64000,2024-03-31,No
+J0915,Database Administrator,Google,Chicago,IL,41.8781,-87.6298,SQL,Java,Mid,97000,2024-05-20,No
+J0916,QA Engineer,DataWorks,New York,NY,40.7128,-74.006,Other,,Mid,84000,2024-09-07,No
+J0917,Data Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Python,"SQL, AWS",Entry,69000,2024-08-07,No
+J0918,Site Reliability Engineer,Netflix,Boston,MA,42.3601,-71.0589,AWS,Machine Learning,Entry,74000,2024-01-03,No
+J0919,QA Engineer,FintechCo,Austin,TX,30.2672,-97.7431,Other,"Python, Machine Learning",Entry,62000,2024-01-08,No
+J0920,SQL Developer,Google,Raleigh,NC,35.7796,-78.6382,SQL,"Python, Other",Mid,101000,2024-01-03,No
+J0921,QA Engineer,Meta,Los Angeles,CA,34.0522,-118.2437,Other,"Java, Azure",Senior,123000,2024-06-25,No
+J0922,Data Engineer,Amazon,Boston,MA,42.3601,-71.0589,Python,"SQL, Java, Other",Mid,116000,2024-09-14,No
+J0923,Software Engineer,Microsoft,Seattle,WA,47.6062,-122.3321,Java,"SQL, Azure",Entry,74000,2024-01-24,No
+J0924,Product Analyst,Netflix,Los Angeles,CA,34.0522,-118.2437,Other,"AWS, Machine Learning",Mid,96000,2024-09-23,No
+J0925,Cloud Architect,Salesforce,Raleigh,NC,35.7796,-78.6382,AWS,"SQL, Machine Learning",Mid,100000,2024-03-09,No
+J0926,Software Engineer,Apple,Redmond,WA,47.673988,-122.121513,Java,"SQL, Machine Learning",Mid,107000,2024-03-25,No
+J0927,Cloud Engineer (AWS),Meta,Redmond,WA,47.673988,-122.121513,AWS,Java,Entry,75000,2024-03-08,No
+J0928,Frontend Developer,DataWorks,Denver,CO,39.7392,-104.9903,Other,Machine Learning,Mid,84000,2024-03-27,No
+J0929,Product Analyst,FintechCo,Raleigh,NC,35.7796,-78.6382,Other,"AWS, Azure",Mid,90000,2024-01-20,No
+J0930,Backend Developer,IBM,Denver,CO,39.7392,-104.9903,Java,"SQL, Machine Learning, Azure",Entry,75000,2024-01-25,No
+J0931,Frontend Developer,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,AWS,Mid,81000,2024-01-11,No
+J0932,Frontend Developer,Salesforce,Chicago,IL,41.8781,-87.6298,Other,,Entry,49000,2024-07-13,No
+J0933,Automation Engineer,IBM,Chicago,IL,41.8781,-87.6298,Python,Java,Mid,115000,2024-03-19,Yes
+J0934,Python Developer,IBM,Boston,MA,42.3601,-71.0589,Python,"SQL, Java",Entry,74000,2024-02-21,No
+J0935,Cloud Architect,IBM,Dallas,TX,32.7767,-96.797,Azure,Other,Senior,118000,2024-03-11,No
+J0936,Database Administrator,StartupX,Los Angeles,CA,34.0522,-118.2437,SQL,Python,Entry,74000,2024-03-01,No
+J0937,Python Developer,RetailCorp,Seattle,WA,47.6062,-122.3321,Python,Other,Senior,142000,2024-09-11,No
+J0938,Automation Engineer,Meta,San Francisco,CA,37.7749,-122.4194,Python,Azure,Entry,88000,2024-09-24,No
+J0939,Research Scientist,FintechCo,Boston,MA,42.3601,-71.0589,Machine Learning,Azure,Entry,96000,2024-05-31,Yes
+J0940,Java Developer,StartupX,Chicago,IL,41.8781,-87.6298,Java,"Python, Machine Learning, Other",Mid,95000,2024-04-16,No
+J0941,BI Developer,Apple,Redmond,WA,47.673988,-122.121513,SQL,Machine Learning,Entry,73000,2024-01-02,Yes
+J0942,Cloud Engineer (AWS),DeepVision,Seattle,WA,47.6062,-122.3321,AWS,"SQL, Java, Azure",Mid,110000,2024-10-20,No
+J0943,Back-end Engineer,Microsoft,Seattle,WA,47.6062,-122.3321,Python,,Entry,78000,2024-09-18,No
+J0944,Cloud Architect,FintechCo,Seattle,WA,47.6062,-122.3321,Azure,Machine Learning,Entry,75000,2024-05-11,No
+J0945,Data Engineer,Netflix,San Francisco,CA,37.7749,-122.4194,Python,"SQL, AWS",Entry,75000,2024-05-15,No
+J0946,Database Administrator,Amazon,New York,NY,40.7128,-74.006,SQL,"Python, Azure",Entry,69000,2024-01-21,No
+J0947,Cloud Architect,RetailCorp,Raleigh,NC,35.7796,-78.6382,AWS,"SQL, Machine Learning",Senior,133000,2024-06-09,Yes
+J0948,Machine Learning Engineer,Amazon,Mountain View,CA,37.3861,-122.0839,Machine Learning,SQL,Senior,191000,2024-01-05,No
+J0949,Data Engineer,Apple,Austin,TX,30.2672,-97.7431,Python,"SQL, Other",Entry,87000,2024-08-12,No
+J0950,Software Engineer,DeepVision,Los Angeles,CA,34.0522,-118.2437,Java,Azure,Senior,128000,2024-02-17,No
+J0951,Cloud Architect,Microsoft,Seattle,WA,47.6062,-122.3321,AWS,"Machine Learning, Other",Mid,103000,2024-07-24,No
+J0952,Support Engineer,IBM,Boston,MA,42.3601,-71.0589,Other,Python,Mid,88000,2024-09-01,No
+J0953,Data Scientist,Amazon,New York,NY,40.7128,-74.006,Machine Learning,SQL,Senior,154000,2024-01-31,No
+J0954,Database Administrator,Salesforce,Dallas,TX,32.7767,-96.797,SQL,"Python, Java",Entry,74000,2024-09-04,No
+J0955,Support Engineer,Microsoft,Dallas,TX,32.7767,-96.797,Other,"AWS, Java",Mid,74000,2024-07-13,No
+J0956,Machine Learning Engineer,HealthAI,Raleigh,NC,35.7796,-78.6382,Machine Learning,SQL,Mid,133000,2024-03-07,Yes
+J0957,Support Engineer,Amazon,Boston,MA,42.3601,-71.0589,Other,Java,Entry,58000,2024-08-13,No
+J0958,Frontend Developer,IBM,Raleigh,NC,35.7796,-78.6382,Other,,Entry,62000,2024-06-09,No
+J0959,QA Engineer,CloudLabs,Austin,TX,30.2672,-97.7431,Other,"SQL, Java, Machine Learning",Mid,87000,2024-09-22,Yes
+J0960,Database Administrator,Salesforce,Raleigh,NC,35.7796,-78.6382,SQL,Other,Senior,132000,2024-05-07,No
+J0961,Software Engineer,CloudLabs,Raleigh,NC,35.7796,-78.6382,Java,Python,Entry,75000,2024-07-16,Yes
+J0962,Cloud Architect,DeepVision,Dallas,TX,32.7767,-96.797,Azure,Other,Senior,120000,2024-01-28,No
+J0963,DevOps Engineer,StartupX,Chicago,IL,41.8781,-87.6298,AWS,Java,Entry,74000,2024-09-10,No
+J0964,Frontend Developer,RetailCorp,Chicago,IL,41.8781,-87.6298,Other,SQL,Senior,107000,2024-06-13,Yes
+J0965,Cloud Architect,IBM,Mountain View,CA,37.3861,-122.0839,AWS,Azure,Senior,146000,2024-09-16,No
+J0966,Automation Engineer,CloudLabs,Boston,MA,42.3601,-71.0589,Python,SQL,Senior,144000,2024-07-25,No
+J0967,Frontend Developer,Netflix,Chicago,IL,41.8781,-87.6298,Other,"Java, Machine Learning",Mid,89000,2024-10-20,No
+J0968,Cloud Engineer (Azure),HealthAI,Chicago,IL,41.8781,-87.6298,Azure,"SQL, AWS",Senior,126000,2024-08-16,Yes
+J0969,Database Administrator,Netflix,Los Angeles,CA,34.0522,-118.2437,SQL,,Entry,61000,2024-01-10,No
+J0970,Support Engineer,Salesforce,Mountain View,CA,37.3861,-122.0839,Other,"Python, Machine Learning",Mid,81000,2024-10-12,No
+J0971,Frontend Developer,HealthAI,Seattle,WA,47.6062,-122.3321,Other,"AWS, Azure",Mid,84000,2024-06-04,No
+J0972,SQL Developer,CloudLabs,Raleigh,NC,35.7796,-78.6382,SQL,"Python, Java",Mid,97000,2024-08-21,Yes
+J0973,Data Analyst,HealthAI,Mountain View,CA,37.3861,-122.0839,SQL,Python,Entry,64000,2024-04-24,No
+J0974,Data Analyst,StartupX,Dallas,TX,32.7767,-96.797,Python,"SQL, Other, Azure",Mid,97000,2024-08-30,Yes
+J0975,Data Analyst,FintechCo,Chicago,IL,41.8781,-87.6298,SQL,Machine Learning,Senior,121000,2024-02-28,No
+J0976,Data Engineer,Google,Austin,TX,30.2672,-97.7431,Python,"Azure, Other",Mid,106000,2024-06-30,No
+J0977,Product Analyst,StartupX,Denver,CO,39.7392,-104.9903,Other,"SQL, Python, Machine Learning",Entry,67000,2024-07-10,No
+J0978,Frontend Developer,Google,New York,NY,40.7128,-74.006,Other,Machine Learning,Senior,111000,2024-09-09,No
+J0979,BI Developer,Amazon,San Francisco,CA,37.7749,-122.4194,SQL,,Mid,101000,2024-04-10,No
+J0980,Machine Learning Engineer,DeepVision,Boston,MA,42.3601,-71.0589,Machine Learning,"Java, Other",Entry,102000,2024-04-20,No
+J0981,QA Engineer,FintechCo,Austin,TX,30.2672,-97.7431,Other,,Entry,62000,2024-02-25,No
+J0982,Machine Learning Engineer,DeepVision,Raleigh,NC,35.7796,-78.6382,Machine Learning,SQL,Entry,103000,2024-10-28,No
+J0983,Software Engineer,Netflix,Raleigh,NC,35.7796,-78.6382,Java,"AWS, Machine Learning",Mid,100000,2024-10-28,No
+J0984,SQL Developer,Netflix,Mountain View,CA,37.3861,-122.0839,SQL,"AWS, Machine Learning",Entry,61000,2024-09-28,No
+J0985,Python Developer,StartupX,Boston,MA,42.3601,-71.0589,Python,SQL,Mid,107000,2024-10-26,Yes
+J0986,DevOps Engineer,FintechCo,Dallas,TX,32.7767,-96.797,AWS,"Machine Learning, Python, Java",Mid,104000,2024-03-29,No
+J0987,Java Developer,Amazon,Boston,MA,42.3601,-71.0589,Java,"AWS, Other",Senior,137000,2024-06-13,No
+J0988,Back-end Engineer,Salesforce,Dallas,TX,32.7767,-96.797,Python,Azure,Senior,141000,2024-05-07,No
+J0989,ML Ops Engineer,Apple,San Francisco,CA,37.7749,-122.4194,Machine Learning,Python,Mid,139000,2024-08-19,No
+J0990,Data Scientist,Salesforce,Dallas,TX,32.7767,-96.797,Machine Learning,"Other, Azure",Senior,166000,2024-09-19,Yes
+J0991,Research Scientist,FintechCo,Los Angeles,CA,34.0522,-118.2437,Machine Learning,"Azure, Python, Other",Senior,166000,2024-10-10,Yes
+J0992,DevOps Engineer,Meta,Redmond,WA,47.673988,-122.121513,AWS,"SQL, Java",Senior,118000,2024-05-28,No
+J0993,Cloud Architect,DeepVision,Raleigh,NC,35.7796,-78.6382,AWS,Machine Learning,Mid,100000,2024-03-08,Yes
+J0994,SQL Developer,StartupX,Denver,CO,39.7392,-104.9903,SQL,"AWS, Azure, Other",Senior,122000,2024-06-14,Yes
+J0995,Cloud Engineer (AWS),RetailCorp,Austin,TX,30.2672,-97.7431,AWS,"Azure, Other",Senior,143000,2024-10-14,Yes
+J0996,Support Engineer,CloudLabs,Los Angeles,CA,34.0522,-118.2437,Other,"AWS, Python",Mid,86000,2024-09-30,Yes
+J0997,Site Reliability Engineer,RetailCorp,Mountain View,CA,37.3861,-122.0839,AWS,Python,Mid,108000,2024-09-24,No
+J0998,Python Developer,Salesforce,New York,NY,40.7128,-74.006,Python,"Java, Azure",Entry,68000,2024-01-28,No
+J0999,Java Developer,Meta,San Francisco,CA,37.7749,-122.4194,Java,SQL,Entry,83000,2024-03-23,No
+J1000,Backend Developer,IBM,New York,NY,40.7128,-74.006,Java,"AWS, Other",Entry,74000,2024-02-01,No
+J1001,Cloud Architect,Meta,Denver,CO,39.7392,-104.9903,AWS,Java,Mid,104000,2024-01-17,No
+J1002,Site Reliability Engineer,Amazon,Dallas,TX,32.7767,-96.797,AWS,Python,Senior,153000,2024-10-14,Yes
+J1003,Support Engineer,Meta,Denver,CO,39.7392,-104.9903,Other,"Azure, Machine Learning",Entry,60000,2024-05-27,No
+J1004,Frontend Developer,DeepVision,Boston,MA,42.3601,-71.0589,Other,"SQL, AWS",Mid,83000,2024-07-17,Yes
+J1005,Research Scientist,StartupX,Mountain View,CA,37.3861,-122.0839,Machine Learning,"SQL, Other",Senior,191000,2024-01-07,Yes
+J1006,Data Analyst,Meta,Dallas,TX,32.7767,-96.797,SQL,Python,Mid,100000,2024-08-14,Yes
+J1007,Product Analyst,RetailCorp,Dallas,TX,32.7767,-96.797,Other,Machine Learning,Senior,104000,2024-10-06,No
+J1008,QA Engineer,RetailCorp,Los Angeles,CA,34.0522,-118.2437,Other,Azure,Entry,55000,2024-04-09,Yes
+J1009,Back-end Engineer,Microsoft,Raleigh,NC,35.7796,-78.6382,Python,Other,Entry,82000,2024-02-08,No
+J1010,SQL Developer,FintechCo,Denver,CO,39.7392,-104.9903,SQL,"Machine Learning, Azure",Entry,65000,2024-03-02,No
+J1011,Cloud Engineer (AWS),Salesforce,San Francisco,CA,37.7749,-122.4194,AWS,"Machine Learning, Other",Mid,107000,2024-10-11,No
+J1012,Cloud Engineer (Azure),Microsoft,Dallas,TX,32.7767,-96.797,Azure,Other,Mid,98000,2024-05-10,No
+J1013,Data Analyst,Netflix,Los Angeles,CA,34.0522,-118.2437,Python,Azure,Mid,124000,2024-03-20,No
+J1014,DevOps Engineer,DeepVision,Austin,TX,30.2672,-97.7431,AWS,"SQL, Azure",Entry,70000,2024-01-27,Yes
+J1015,Automation Engineer,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,"SQL, Machine Learning",Mid,104000,2024-06-03,Yes
+J1016,Cloud Architect,StartupX,Austin,TX,30.2672,-97.7431,Azure,"SQL, AWS, Java",Entry,66000,2024-02-07,Yes
+J1017,Research Scientist,StartupX,Redmond,WA,47.673988,-122.121513,Machine Learning,"AWS, Java, Azure",Entry,83000,2024-04-04,Yes
+J1018,Machine Learning Engineer,RetailCorp,Denver,CO,39.7392,-104.9903,Machine Learning,Azure,Senior,141000,2024-03-22,No
+J1019,Site Reliability Engineer,Amazon,Austin,TX,30.2672,-97.7431,AWS,Python,Mid,102000,2024-04-23,No
+J1020,Product Analyst,Apple,Austin,TX,30.2672,-97.7431,Other,Machine Learning,Entry,60000,2024-05-30,No
+J1021,Support Engineer,StartupX,Raleigh,NC,35.7796,-78.6382,Other,SQL,Entry,58000,2024-01-05,No
+J1022,Product Analyst,Netflix,Redmond,WA,47.673988,-122.121513,Other,Java,Senior,118000,2024-05-04,Yes
+J1023,Backend Developer,DeepVision,Austin,TX,30.2672,-97.7431,Java,,Mid,103000,2024-07-14,Yes
+J1024,BI Developer,IBM,Denver,CO,39.7392,-104.9903,SQL,Azure,Mid,107000,2024-05-24,No
+J1025,Research Scientist,StartupX,Denver,CO,39.7392,-104.9903,Machine Learning,"AWS, Java",Mid,123000,2024-08-16,No
+J1026,Database Administrator,IBM,Raleigh,NC,35.7796,-78.6382,SQL,"Python, Machine Learning",Entry,69000,2024-04-08,Yes
+J1027,Cloud Engineer (AWS),Amazon,New York,NY,40.7128,-74.006,AWS,"Other, Java, Azure",Mid,102000,2024-10-02,Yes
+J1028,Frontend Developer,CloudLabs,Seattle,WA,47.6062,-122.3321,Other,"Python, Machine Learning, Azure",Senior,94000,2024-04-17,No
+J1029,Data Engineer,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,SQL,Mid,103000,2024-08-05,No
+J1030,Data Engineer,StartupX,Los Angeles,CA,34.0522,-118.2437,Python,"Java, Azure",Mid,118000,2024-08-10,No
+J1031,Database Administrator,FintechCo,Raleigh,NC,35.7796,-78.6382,SQL,Azure,Entry,67000,2024-03-19,Yes
+J1032,Support Engineer,FintechCo,Austin,TX,30.2672,-97.7431,Other,Python,Mid,84000,2024-01-20,Yes
+J1033,Frontend Developer,Google,New York,NY,40.7128,-74.006,Other,"AWS, Java, Azure",Mid,88000,2024-05-08,Yes
+J1034,Python Developer,DataWorks,Redmond,WA,47.673988,-122.121513,Python,"SQL, Other",Entry,76000,2024-05-12,Yes
+J1035,Site Reliability Engineer,Netflix,Raleigh,NC,35.7796,-78.6382,AWS,"SQL, Other",Senior,149000,2024-07-26,No
+J1036,Product Analyst,Google,Boston,MA,42.3601,-71.0589,Other,"SQL, AWS",Senior,114000,2024-03-01,No
+J1037,Database Administrator,CloudLabs,Los Angeles,CA,34.0522,-118.2437,SQL,"Java, Other",Entry,74000,2024-02-02,No
+J1038,Automation Engineer,Google,Los Angeles,CA,34.0522,-118.2437,Python,"SQL, Other",Entry,85000,2024-02-07,No
+J1039,Machine Learning Engineer,IBM,Raleigh,NC,35.7796,-78.6382,Machine Learning,"AWS, Azure",Mid,139000,2024-06-03,Yes
+J1040,Cloud Engineer (AWS),IBM,Chicago,IL,41.8781,-87.6298,AWS,"Java, Machine Learning",Senior,128000,2024-07-14,No
+J1041,Python Developer,Netflix,New York,NY,40.7128,-74.006,Python,SQL,Mid,117000,2024-09-30,Yes
+J1042,DevOps Engineer,FintechCo,Boston,MA,42.3601,-71.0589,AWS,"Azure, Other",Senior,136000,2024-10-06,No
+J1043,QA Engineer,IBM,Raleigh,NC,35.7796,-78.6382,Other,SQL,Mid,89000,2024-07-10,No
+J1044,SQL Developer,Amazon,Mountain View,CA,37.3861,-122.0839,SQL,"AWS, Other, Azure",Entry,72000,2024-01-03,Yes
+J1045,Automation Engineer,Salesforce,Denver,CO,39.7392,-104.9903,Python,SQL,Entry,79000,2024-10-07,No
+J1046,Product Analyst,Meta,Los Angeles,CA,34.0522,-118.2437,Other,AWS,Entry,63000,2024-06-25,Yes
+J1047,Support Engineer,DeepVision,Raleigh,NC,35.7796,-78.6382,Other,Azure,Entry,71000,2024-09-19,Yes
+J1048,QA Engineer,Microsoft,Redmond,WA,47.673988,-122.121513,Other,Machine Learning,Senior,105000,2024-05-09,No
+J1049,Java Developer,Microsoft,Raleigh,NC,35.7796,-78.6382,Java,Azure,Mid,120000,2024-10-17,No
+J1050,ML Ops Engineer,CloudLabs,Denver,CO,39.7392,-104.9903,Machine Learning,Java,Entry,100000,2024-02-07,Yes
+J1051,Python Developer,IBM,Seattle,WA,47.6062,-122.3321,Python,"Java, Azure",Mid,111000,2024-04-11,No
+J1052,BI Developer,Apple,Austin,TX,30.2672,-97.7431,SQL,Java,Senior,118000,2024-03-06,No
+J1053,Backend Developer,Meta,Seattle,WA,47.6062,-122.3321,Java,"SQL, Machine Learning, Other",Mid,107000,2024-05-25,No
+J1054,Cloud Engineer (Azure),DeepVision,Redmond,WA,47.673988,-122.121513,Azure,"Python, Java",Entry,77000,2024-06-11,No
+J1055,Back-end Engineer,Apple,Dallas,TX,32.7767,-96.797,Python,"SQL, Java, Azure",Mid,99000,2024-06-05,No
+J1056,QA Engineer,DataWorks,Dallas,TX,32.7767,-96.797,Other,SQL,Mid,77000,2024-07-05,Yes
+J1057,Support Engineer,Microsoft,Mountain View,CA,37.3861,-122.0839,Other,Python,Senior,118000,2024-06-09,No
+J1058,Data Engineer,FintechCo,Los Angeles,CA,34.0522,-118.2437,Python,Other,Senior,127000,2024-08-11,No
+J1059,Product Analyst,Microsoft,Raleigh,NC,35.7796,-78.6382,Other,"Python, Java",Entry,59000,2024-06-18,Yes
+J1060,Support Engineer,Netflix,Austin,TX,30.2672,-97.7431,Other,"AWS, Machine Learning",Senior,112000,2024-06-05,No
+J1061,Database Administrator,Microsoft,Raleigh,NC,35.7796,-78.6382,SQL,Other,Entry,73000,2024-02-11,No
+J1062,DevOps Engineer,DeepVision,Denver,CO,39.7392,-104.9903,AWS,SQL,Mid,119000,2024-04-10,No
+J1063,Database Administrator,FintechCo,Seattle,WA,47.6062,-122.3321,SQL,"AWS, Machine Learning, Other",Entry,60000,2024-01-10,No
+J1064,Database Administrator,HealthAI,Dallas,TX,32.7767,-96.797,SQL,Python,Senior,128000,2024-10-23,No
+J1065,SQL Developer,DeepVision,Mountain View,CA,37.3861,-122.0839,SQL,"Python, Java",Mid,88000,2024-10-09,No
+J1066,Automation Engineer,DeepVision,Denver,CO,39.7392,-104.9903,Python,"Machine Learning, Other",Senior,150000,2024-08-29,Yes
+J1067,DevOps Engineer,Apple,Boston,MA,42.3601,-71.0589,AWS,"Machine Learning, Java",Senior,124000,2024-04-24,Yes
+J1068,Data Analyst,Microsoft,Chicago,IL,41.8781,-87.6298,SQL,"Python, Azure",Entry,71000,2024-09-13,Yes
+J1069,Database Administrator,Salesforce,Austin,TX,30.2672,-97.7431,SQL,Machine Learning,Entry,67000,2024-09-14,No
+J1070,QA Engineer,HealthAI,Dallas,TX,32.7767,-96.797,Other,"Machine Learning, SQL, Java",Senior,100000,2024-03-25,Yes
+J1071,DevOps Engineer,Netflix,New York,NY,40.7128,-74.006,AWS,"SQL, Machine Learning",Mid,101000,2024-04-01,Yes
+J1072,QA Engineer,FintechCo,Los Angeles,CA,34.0522,-118.2437,Other,Machine Learning,Senior,107000,2024-09-04,No
+J1073,Database Administrator,Meta,Chicago,IL,41.8781,-87.6298,SQL,,Entry,64000,2024-04-28,No
+J1074,Product Analyst,Apple,Redmond,WA,47.673988,-122.121513,Other,"Python, Machine Learning",Entry,62000,2024-01-22,Yes
+J1075,SQL Developer,StartupX,Austin,TX,30.2672,-97.7431,SQL,"Azure, Other",Senior,137000,2024-07-17,No
+J1076,Back-end Engineer,DeepVision,Mountain View,CA,37.3861,-122.0839,Python,SQL,Entry,85000,2024-01-21,Yes
+J1077,Product Analyst,Amazon,Los Angeles,CA,34.0522,-118.2437,Other,"SQL, Python, Machine Learning",Senior,118000,2024-09-23,No
+J1078,Data Analyst,HealthAI,Los Angeles,CA,34.0522,-118.2437,Python,Machine Learning,Mid,111000,2024-05-14,No
+J1079,Data Scientist,Salesforce,Raleigh,NC,35.7796,-78.6382,Machine Learning,Java,Senior,161000,2024-07-12,No
+J1080,Cloud Engineer (AWS),StartupX,San Francisco,CA,37.7749,-122.4194,AWS,SQL,Entry,74000,2024-07-11,No
+J1081,Site Reliability Engineer,Apple,Austin,TX,30.2672,-97.7431,AWS,Other,Mid,109000,2024-09-06,Yes
+J1082,Automation Engineer,Google,Denver,CO,39.7392,-104.9903,Python,"Machine Learning, Other",Entry,81000,2024-03-12,No
+J1083,QA Engineer,Meta,Seattle,WA,47.6062,-122.3321,Other,"SQL, AWS, Machine Learning",Mid,84000,2024-09-20,No
+J1084,Product Analyst,Meta,New York,NY,40.7128,-74.006,Other,,Mid,93000,2024-04-05,No
+J1085,Research Scientist,DataWorks,Los Angeles,CA,34.0522,-118.2437,Machine Learning,"AWS, Java, Azure",Senior,187000,2024-03-01,No
+J1086,QA Engineer,Salesforce,Austin,TX,30.2672,-97.7431,Other,"SQL, Machine Learning",Senior,110000,2024-02-28,Yes
+J1087,Support Engineer,Netflix,Redmond,WA,47.673988,-122.121513,Other,Machine Learning,Entry,60000,2024-10-29,No
+J1088,BI Developer,Google,Redmond,WA,47.673988,-122.121513,SQL,Other,Entry,69000,2024-01-23,Yes
+J1089,Backend Developer,DataWorks,New York,NY,40.7128,-74.006,Java,"AWS, Other",Senior,140000,2024-03-09,Yes
+J1090,Automation Engineer,Google,Dallas,TX,32.7767,-96.797,Python,Azure,Mid,121000,2024-03-16,No
+J1091,SQL Developer,IBM,New York,NY,40.7128,-74.006,SQL,"AWS, Java",Senior,117000,2024-09-21,Yes
+J1092,Frontend Developer,DeepVision,Los Angeles,CA,34.0522,-118.2437,Other,Machine Learning,Entry,63000,2024-05-25,No
+J1093,DevOps Engineer,Netflix,Dallas,TX,32.7767,-96.797,AWS,"Java, Other",Entry,87000,2024-08-29,Yes
+J1094,Data Scientist,Meta,Boston,MA,42.3601,-71.0589,Machine Learning,"SQL, Java",Entry,105000,2024-03-14,No
+J1095,DevOps Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,AWS,"SQL, Azure",Senior,114000,2024-09-18,No
+J1096,QA Engineer,FintechCo,Raleigh,NC,35.7796,-78.6382,Other,"SQL, AWS",Mid,66000,2024-06-24,No
+J1097,Backend Developer,DataWorks,Seattle,WA,47.6062,-122.3321,Java,Azure,Entry,68000,2024-04-27,No
+J1098,ML Ops Engineer,Microsoft,Seattle,WA,47.6062,-122.3321,Machine Learning,Azure,Senior,158000,2024-01-09,No
+J1099,Automation Engineer,HealthAI,Denver,CO,39.7392,-104.9903,Python,,Entry,81000,2024-08-02,Yes
+J1100,Database Administrator,Microsoft,Chicago,IL,41.8781,-87.6298,SQL,"Python, Machine Learning",Entry,64000,2024-01-20,No
+J1101,Cloud Architect,RetailCorp,Seattle,WA,47.6062,-122.3321,Azure,AWS,Mid,91000,2024-02-17,No
+J1102,Backend Developer,Microsoft,Dallas,TX,32.7767,-96.797,Java,SQL,Mid,100000,2024-10-03,No
+J1103,Back-end Engineer,StartupX,Boston,MA,42.3601,-71.0589,Python,Java,Mid,117000,2024-07-08,No
+J1104,Automation Engineer,Salesforce,Redmond,WA,47.673988,-122.121513,Python,"Java, Machine Learning",Mid,102000,2024-09-03,No
+J1105,Data Analyst,DataWorks,Los Angeles,CA,34.0522,-118.2437,Python,AWS,Mid,112000,2024-10-21,No
+J1106,BI Developer,Microsoft,San Francisco,CA,37.7749,-122.4194,SQL,Azure,Entry,60000,2024-09-01,Yes
+J1107,Database Administrator,IBM,Dallas,TX,32.7767,-96.797,SQL,AWS,Senior,116000,2024-10-05,Yes
+J1108,Product Analyst,Meta,Mountain View,CA,37.3861,-122.0839,Other,"SQL, AWS, Java",Senior,108000,2024-01-04,No
+J1109,Frontend Developer,StartupX,Mountain View,CA,37.3861,-122.0839,Other,"SQL, Python, Azure",Entry,63000,2024-07-11,No
+J1110,QA Engineer,FintechCo,Austin,TX,30.2672,-97.7431,Other,"SQL, AWS",Mid,79000,2024-07-28,No
+J1111,Frontend Developer,Microsoft,Boston,MA,42.3601,-71.0589,Other,Azure,Mid,88000,2024-10-26,No
+J1112,Data Analyst,HealthAI,Denver,CO,39.7392,-104.9903,Python,"AWS, Java",Senior,149000,2024-08-04,Yes
+J1113,Research Scientist,DataWorks,San Francisco,CA,37.7749,-122.4194,Machine Learning,Other,Mid,138000,2024-07-22,No
+J1114,Site Reliability Engineer,StartupX,Denver,CO,39.7392,-104.9903,AWS,Java,Senior,138000,2024-09-04,No
+J1115,Research Scientist,StartupX,Denver,CO,39.7392,-104.9903,Machine Learning,"SQL, Azure",Entry,94000,2024-09-04,No
+J1116,Product Analyst,DataWorks,Austin,TX,30.2672,-97.7431,Other,"AWS, Java",Mid,99000,2024-07-22,No
+J1117,Data Engineer,HealthAI,Raleigh,NC,35.7796,-78.6382,Python,"Java, Other, Azure",Senior,134000,2024-03-01,Yes
+J1118,Data Engineer,Netflix,Los Angeles,CA,34.0522,-118.2437,Python,Machine Learning,Mid,110000,2024-03-23,No
+J1119,DevOps Engineer,StartupX,Boston,MA,42.3601,-71.0589,AWS,"SQL, Machine Learning",Senior,138000,2024-06-22,No
+J1120,Frontend Developer,Microsoft,Boston,MA,42.3601,-71.0589,Other,Azure,Senior,101000,2024-01-03,No
+J1121,QA Engineer,Netflix,Dallas,TX,32.7767,-96.797,Other,,Entry,57000,2024-08-10,Yes
+J1122,Java Developer,IBM,Redmond,WA,47.673988,-122.121513,Java,SQL,Entry,71000,2024-07-08,No
+J1123,Automation Engineer,Google,Los Angeles,CA,34.0522,-118.2437,Python,SQL,Entry,86000,2024-07-15,No
+J1124,Cloud Architect,FintechCo,Dallas,TX,32.7767,-96.797,AWS,Other,Entry,71000,2024-01-30,No
+J1125,Back-end Engineer,Netflix,Mountain View,CA,37.3861,-122.0839,Python,,Mid,106000,2024-04-13,Yes
+J1126,Cloud Architect,Meta,Mountain View,CA,37.3861,-122.0839,AWS,"SQL, Java, Azure",Entry,77000,2024-09-18,No
+J1127,QA Engineer,DataWorks,New York,NY,40.7128,-74.006,Other,"Python, Azure",Mid,78000,2024-01-19,No
+J1128,DevOps Engineer,CloudLabs,Mountain View,CA,37.3861,-122.0839,AWS,Java,Entry,56000,2024-03-21,No
+J1129,Product Analyst,RetailCorp,Boston,MA,42.3601,-71.0589,Other,"SQL, Python, Machine Learning",Senior,116000,2024-06-29,Yes
+J1130,Support Engineer,Salesforce,Dallas,TX,32.7767,-96.797,Other,"SQL, Java",Entry,73000,2024-04-12,No
+J1131,Database Administrator,FintechCo,Los Angeles,CA,34.0522,-118.2437,SQL,Azure,Mid,92000,2024-02-05,No
+J1132,Cloud Architect,FintechCo,Denver,CO,39.7392,-104.9903,AWS,"Python, Machine Learning",Senior,144000,2024-10-25,Yes
+J1133,Research Scientist,HealthAI,San Francisco,CA,37.7749,-122.4194,Machine Learning,"Java, Azure",Entry,91000,2024-04-25,No
+J1134,QA Engineer,Netflix,Boston,MA,42.3601,-71.0589,Other,Python,Entry,62000,2024-10-21,No
+J1135,Product Analyst,Microsoft,Boston,MA,42.3601,-71.0589,Other,SQL,Mid,94000,2024-09-16,No
+J1136,Cloud Engineer (AWS),StartupX,San Francisco,CA,37.7749,-122.4194,AWS,,Mid,104000,2024-06-23,No
+J1137,Automation Engineer,IBM,Denver,CO,39.7392,-104.9903,Python,"Java, Other",Entry,74000,2024-10-21,No
+J1138,Site Reliability Engineer,Salesforce,Dallas,TX,32.7767,-96.797,AWS,SQL,Senior,136000,2024-09-04,Yes
+J1139,Product Analyst,RetailCorp,Chicago,IL,41.8781,-87.6298,Other,"SQL, Azure",Mid,81000,2024-08-23,Yes
+J1140,Python Developer,Netflix,Seattle,WA,47.6062,-122.3321,Python,Other,Entry,79000,2024-05-12,No
+J1141,Support Engineer,CloudLabs,Redmond,WA,47.673988,-122.121513,Other,,Mid,81000,2024-04-27,No
+J1142,BI Developer,Apple,Denver,CO,39.7392,-104.9903,SQL,AWS,Senior,127000,2024-10-01,Yes
+J1143,Data Analyst,Meta,San Francisco,CA,37.7749,-122.4194,Python,"AWS, Other",Entry,84000,2024-02-17,No
+J1144,Cloud Architect,Amazon,Denver,CO,39.7392,-104.9903,AWS,Java,Entry,75000,2024-04-01,Yes
+J1145,Product Analyst,Apple,Redmond,WA,47.673988,-122.121513,Other,"AWS, Python",Entry,61000,2024-10-20,Yes
+J1146,Java Developer,FintechCo,Raleigh,NC,35.7796,-78.6382,Java,"Azure, Other",Entry,70000,2024-04-07,No
+J1147,Backend Developer,Meta,Redmond,WA,47.673988,-122.121513,Java,Machine Learning,Entry,72000,2024-05-03,Yes
+J1148,Cloud Engineer (Azure),Meta,Redmond,WA,47.673988,-122.121513,Azure,"Python, Machine Learning",Senior,149000,2024-05-07,Yes
+J1149,Research Scientist,Microsoft,Seattle,WA,47.6062,-122.3321,Machine Learning,Python,Mid,126000,2024-03-02,Yes
+J1150,Support Engineer,DataWorks,Mountain View,CA,37.3861,-122.0839,Other,Azure,Mid,72000,2024-10-04,Yes
+J1151,Support Engineer,Apple,Dallas,TX,32.7767,-96.797,Other,"Python, Java",Mid,93000,2024-06-10,No
+J1152,Automation Engineer,HealthAI,San Francisco,CA,37.7749,-122.4194,Python,Azure,Entry,73000,2024-09-08,No
+J1153,Product Analyst,Salesforce,Redmond,WA,47.673988,-122.121513,Other,SQL,Entry,66000,2024-10-22,No
+J1154,Python Developer,StartupX,Boston,MA,42.3601,-71.0589,Python,"SQL, Machine Learning",Mid,122000,2024-09-01,Yes
+J1155,Frontend Developer,StartupX,Austin,TX,30.2672,-97.7431,Other,"SQL, Java, Machine Learning",Mid,73000,2024-07-20,Yes
+J1156,SQL Developer,Netflix,Seattle,WA,47.6062,-122.3321,SQL,Azure,Mid,96000,2024-09-22,Yes
+J1157,Cloud Architect,FintechCo,Mountain View,CA,37.3861,-122.0839,AWS,"Other, Azure",Entry,80000,2024-01-07,No
+J1158,Data Engineer,Salesforce,Dallas,TX,32.7767,-96.797,Python,"Machine Learning, Other",Senior,150000,2024-02-21,No
+J1159,Cloud Architect,DataWorks,San Francisco,CA,37.7749,-122.4194,AWS,"Azure, Python, Other",Entry,74000,2024-04-05,No
+J1160,Research Scientist,Meta,San Francisco,CA,37.7749,-122.4194,Machine Learning,SQL,Entry,89000,2024-08-29,Yes
+J1161,Cloud Architect,Apple,New York,NY,40.7128,-74.006,AWS,"Azure, Other",Mid,118000,2024-09-12,Yes
+J1162,Cloud Engineer (Azure),Salesforce,Los Angeles,CA,34.0522,-118.2437,Azure,"SQL, AWS",Mid,90000,2024-07-09,Yes
+J1163,Back-end Engineer,IBM,Chicago,IL,41.8781,-87.6298,Python,Other,Entry,80000,2024-04-02,No
+J1164,Data Engineer,DataWorks,Raleigh,NC,35.7796,-78.6382,Python,AWS,Mid,102000,2024-04-27,Yes
+J1165,Product Analyst,RetailCorp,Redmond,WA,47.673988,-122.121513,Other,"Python, Java",Mid,98000,2024-10-11,No
+J1166,Support Engineer,Meta,New York,NY,40.7128,-74.006,Other,"AWS, Azure",Entry,48000,2024-03-17,No
+J1167,Frontend Developer,Microsoft,Boston,MA,42.3601,-71.0589,Other,Java,Senior,121000,2024-09-12,No
+J1168,Backend Developer,StartupX,Denver,CO,39.7392,-104.9903,Java,Azure,Mid,110000,2024-06-10,No
+J1169,Product Analyst,IBM,Denver,CO,39.7392,-104.9903,Other,AWS,Entry,62000,2024-10-17,Yes
+J1170,Site Reliability Engineer,Amazon,Los Angeles,CA,34.0522,-118.2437,AWS,Java,Mid,116000,2024-03-24,Yes
+J1171,Data Scientist,HealthAI,San Francisco,CA,37.7749,-122.4194,Machine Learning,"SQL, Other",Entry,102000,2024-08-31,No
+J1172,Frontend Developer,Netflix,Los Angeles,CA,34.0522,-118.2437,Other,"Machine Learning, Azure",Senior,103000,2024-06-20,Yes
+J1173,Azure DevOps Engineer,Apple,Denver,CO,39.7392,-104.9903,Azure,AWS,Entry,69000,2024-10-12,No
+J1174,Cloud Architect,Google,Boston,MA,42.3601,-71.0589,AWS,Machine Learning,Mid,117000,2024-03-03,No
+J1175,Data Scientist,DataWorks,Dallas,TX,32.7767,-96.797,Machine Learning,,Senior,174000,2024-10-02,No
+J1176,Data Analyst,Apple,Austin,TX,30.2672,-97.7431,SQL,"Python, Java",Entry,56000,2024-09-18,No
+J1177,BI Developer,DeepVision,Seattle,WA,47.6062,-122.3321,SQL,"Machine Learning, Python, Java",Entry,75000,2024-07-14,No
+J1178,Data Analyst,Netflix,Raleigh,NC,35.7796,-78.6382,Python,,Entry,86000,2024-03-15,No
+J1179,Cloud Architect,RetailCorp,Austin,TX,30.2672,-97.7431,Azure,"SQL, Java",Senior,113000,2024-08-03,No
+J1180,Automation Engineer,DataWorks,Boston,MA,42.3601,-71.0589,Python,Machine Learning,Entry,75000,2024-02-06,No
+J1181,Java Developer,Apple,Redmond,WA,47.673988,-122.121513,Java,"Machine Learning, Other",Entry,78000,2024-06-09,No
+J1182,Product Analyst,FintechCo,San Francisco,CA,37.7749,-122.4194,Other,"SQL, Python",Mid,95000,2024-07-21,No
+J1183,Back-end Engineer,RetailCorp,Austin,TX,30.2672,-97.7431,Python,"SQL, Azure",Mid,111000,2024-10-27,No
+J1184,Site Reliability Engineer,Salesforce,New York,NY,40.7128,-74.006,AWS,Other,Senior,131000,2024-04-04,Yes
+J1185,QA Engineer,FintechCo,Redmond,WA,47.673988,-122.121513,Other,"SQL, Machine Learning",Senior,130000,2024-05-08,No
+J1186,Python Developer,Meta,New York,NY,40.7128,-74.006,Python,Machine Learning,Mid,116000,2024-07-22,No
+J1187,Java Developer,Amazon,Chicago,IL,41.8781,-87.6298,Java,Python,Entry,81000,2024-10-07,Yes
+J1188,Frontend Developer,RetailCorp,Boston,MA,42.3601,-71.0589,Other,SQL,Senior,119000,2024-09-25,No
+J1189,Java Developer,IBM,Dallas,TX,32.7767,-96.797,Java,AWS,Mid,117000,2024-03-20,No
+J1190,BI Developer,IBM,Redmond,WA,47.673988,-122.121513,SQL,"Python, Azure",Senior,117000,2024-05-06,No
+J1191,Software Engineer,Netflix,Raleigh,NC,35.7796,-78.6382,Java,AWS,Entry,83000,2024-03-05,No
+J1192,DevOps Engineer,Google,Mountain View,CA,37.3861,-122.0839,AWS,Python,Senior,117000,2024-07-01,No
+J1193,ML Ops Engineer,Netflix,Denver,CO,39.7392,-104.9903,Machine Learning,"Java, Azure",Senior,173000,2024-05-19,No
+J1194,Support Engineer,Microsoft,Los Angeles,CA,34.0522,-118.2437,Other,Machine Learning,Entry,71000,2024-10-03,No
+J1195,Site Reliability Engineer,CloudLabs,Los Angeles,CA,34.0522,-118.2437,AWS,"Python, Other",Entry,64000,2024-10-15,No
+J1196,Research Scientist,DeepVision,Austin,TX,30.2672,-97.7431,Machine Learning,AWS,Senior,152000,2024-09-03,No
+J1197,Data Scientist,RetailCorp,Seattle,WA,47.6062,-122.3321,Machine Learning,"Python, Azure",Entry,88000,2024-08-14,No
+J1198,Azure DevOps Engineer,Salesforce,San Francisco,CA,37.7749,-122.4194,Azure,"Python, Machine Learning",Senior,142000,2024-03-20,Yes
+J1199,Java Developer,Google,Denver,CO,39.7392,-104.9903,Java,Azure,Mid,104000,2024-03-10,Yes
+J1200,Data Analyst,Netflix,Denver,CO,39.7392,-104.9903,Python,"AWS, Other, Azure",Mid,109000,2024-01-05,Yes
+J1201,Support Engineer,RetailCorp,Chicago,IL,41.8781,-87.6298,Other,Machine Learning,Mid,73000,2024-06-02,No
+J1202,Support Engineer,RetailCorp,San Francisco,CA,37.7749,-122.4194,Other,Azure,Mid,81000,2024-04-28,No
+J1203,Backend Developer,Apple,Redmond,WA,47.673988,-122.121513,Java,"SQL, Python, Machine Learning",Entry,67000,2024-07-29,Yes
+J1204,Azure DevOps Engineer,Salesforce,Redmond,WA,47.673988,-122.121513,Azure,"SQL, AWS, Machine Learning",Senior,135000,2024-03-24,No
+J1205,Support Engineer,HealthAI,Boston,MA,42.3601,-71.0589,Other,"AWS, Azure",Entry,57000,2024-04-22,No
+J1206,Machine Learning Engineer,Salesforce,Raleigh,NC,35.7796,-78.6382,Machine Learning,"Python, Java",Mid,137000,2024-05-02,Yes
+J1207,Research Scientist,IBM,Raleigh,NC,35.7796,-78.6382,Machine Learning,AWS,Entry,90000,2024-09-29,No
+J1208,Back-end Engineer,Meta,Seattle,WA,47.6062,-122.3321,Python,Machine Learning,Entry,95000,2024-04-03,No
+J1209,Cloud Architect,Amazon,Raleigh,NC,35.7796,-78.6382,AWS,"Python, Other, Azure",Mid,92000,2024-08-21,No
+J1210,Site Reliability Engineer,IBM,Los Angeles,CA,34.0522,-118.2437,AWS,Other,Senior,145000,2024-09-08,Yes
+J1211,Data Analyst,Google,New York,NY,40.7128,-74.006,SQL,"AWS, Machine Learning, Other",Senior,121000,2024-01-26,No
+J1212,Machine Learning Engineer,Microsoft,Seattle,WA,47.6062,-122.3321,Machine Learning,"SQL, AWS",Entry,93000,2024-05-24,No
+J1213,SQL Developer,FintechCo,Chicago,IL,41.8781,-87.6298,SQL,Other,Senior,127000,2024-01-05,No
+J1214,Frontend Developer,Microsoft,Mountain View,CA,37.3861,-122.0839,Other,,Entry,66000,2024-09-09,No
+J1215,Cloud Architect,Salesforce,San Francisco,CA,37.7749,-122.4194,AWS,"Machine Learning, Java",Senior,143000,2024-09-12,No
+J1216,Back-end Engineer,FintechCo,Mountain View,CA,37.3861,-122.0839,Python,Java,Entry,81000,2024-06-18,No
+J1217,QA Engineer,Google,San Francisco,CA,37.7749,-122.4194,Other,Java,Senior,118000,2024-07-19,Yes
+J1218,Cloud Architect,Netflix,New York,NY,40.7128,-74.006,Azure,Python,Mid,89000,2024-04-08,No
+J1219,BI Developer,HealthAI,Mountain View,CA,37.3861,-122.0839,SQL,"AWS, Machine Learning",Mid,86000,2024-03-03,No
+J1220,Data Scientist,Salesforce,Chicago,IL,41.8781,-87.6298,Machine Learning,"SQL, AWS",Mid,138000,2024-05-06,Yes
+J1221,Database Administrator,Meta,Chicago,IL,41.8781,-87.6298,SQL,"Python, Java",Mid,97000,2024-02-18,No
+J1222,Data Engineer,Netflix,Boston,MA,42.3601,-71.0589,Python,"Java, Machine Learning",Entry,85000,2024-06-08,No
+J1223,DevOps Engineer,CloudLabs,Los Angeles,CA,34.0522,-118.2437,AWS,"Python, Machine Learning, Azure",Mid,104000,2024-01-22,Yes
+J1224,Cloud Architect,StartupX,Seattle,WA,47.6062,-122.3321,Azure,"Java, Machine Learning",Senior,128000,2024-05-09,No
+J1225,Research Scientist,Meta,Austin,TX,30.2672,-97.7431,Machine Learning,"AWS, Python, Azure",Senior,172000,2024-01-27,No
+J1226,SQL Developer,Amazon,Redmond,WA,47.673988,-122.121513,SQL,"Python, Azure",Entry,65000,2024-08-10,No
+J1227,Cloud Engineer (AWS),Microsoft,San Francisco,CA,37.7749,-122.4194,AWS,Azure,Senior,127000,2024-10-26,Yes
+J1228,Support Engineer,RetailCorp,Redmond,WA,47.673988,-122.121513,Other,Python,Senior,119000,2024-01-05,No
+J1229,Support Engineer,FintechCo,Dallas,TX,32.7767,-96.797,Other,"SQL, AWS",Entry,49000,2024-03-20,No
+J1230,Frontend Developer,Meta,New York,NY,40.7128,-74.006,Other,,Senior,129000,2024-09-12,No
+J1231,Product Analyst,DeepVision,Raleigh,NC,35.7796,-78.6382,Other,Java,Entry,57000,2024-01-31,No
+J1232,Data Analyst,CloudLabs,New York,NY,40.7128,-74.006,SQL,Azure,Entry,72000,2024-10-01,No
+J1233,Data Scientist,Netflix,Redmond,WA,47.673988,-122.121513,Machine Learning,"AWS, Azure",Mid,126000,2024-06-11,No
+J1234,Product Analyst,RetailCorp,Chicago,IL,41.8781,-87.6298,Other,Machine Learning,Mid,88000,2024-04-08,Yes
+J1235,Backend Developer,Salesforce,Austin,TX,30.2672,-97.7431,Java,Other,Mid,89000,2024-03-09,Yes
+J1236,Cloud Engineer (AWS),Netflix,Los Angeles,CA,34.0522,-118.2437,AWS,Other,Mid,115000,2024-08-12,No
+J1237,Product Analyst,StartupX,Los Angeles,CA,34.0522,-118.2437,Other,SQL,Entry,65000,2024-09-07,Yes
+J1238,QA Engineer,StartupX,Austin,TX,30.2672,-97.7431,Other,SQL,Mid,84000,2024-06-14,No
+J1239,Back-end Engineer,IBM,Dallas,TX,32.7767,-96.797,Python,Azure,Entry,70000,2024-10-10,Yes
