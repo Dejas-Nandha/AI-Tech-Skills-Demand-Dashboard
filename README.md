@@ -42,7 +42,7 @@ The dataset includes structured information related to AI and technology job pos
 
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshots/Dashboard Overview.png)
+![Dashboard Screenshot](Downloads\AI-Tech-Skills-Demand-Dashboard\Dashboard Overview.png)
 
 ## 🚀 Learnings
 - KPI creation using DAX
